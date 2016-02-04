@@ -1,0 +1,119 @@
+Report for Institution Code LSUMZ, Resource Fishes
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 26
+Number of records retrieved in searches: 162
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Russia ; Times: 2
+	Country: United States ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-06 ; Times: 3
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-14 ; Times: 4
+	Date: 2016-01-19 ; Times: 6
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-25 ; Times: 4
+	Date: 2016-01-26 ; Times: 2
+	Date: 2016-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:320 institutioncode:LSUMZ" ; Times: 1
+	Query: "etheostoma osburni" ; Times: 2
+	Query: "gobiomorus maculatus" ; Times: 2
+	Query: "Callichthyidae country:"United States"" ; Times: 1
+	Query: "Syngnathidae tissue:1" ; Times: 4
+	Query: "minous" ; Times: 2
+	Query: "scolopsis vosmeri" ; Times: 1
+	Query: "cercamia" ; Times: 1
+	Query: "dormitator latifrons" ; Times: 1
+	Query: "Gobiomorus dormitor" ; Times: 3
+	Query: "percina nasuta" ; Times: 4
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Laticauda tissue:1" ; Times: 1
+	Query: "Clariidae country:"United States"" ; Times: 1
+	Query: "plicofollis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 35 (out of 507 download events in this period)
+Total number of records downloaded: 6940 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 6681
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 1
+	Date: 2016-01-03 ; Times: 17
+	Date: 2016-01-05 ; Times: 14
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Acipenseridae country:"United States"" ; Times: 1
+	Query: "family:Cottidae country:"United States"" ; Times: 1
+	Query: "family:Catostomidae country:"United States"" ; Times: 1
+	Query: "family:Gobiidae country:"United States"" ; Times: 1
+	Query: "family:Mugilidae country:"United States"" ; Times: 1
+	Query: "family:Clupeidae country:"United States"" ; Times: 1
+	Query: "family:Achiridae country:"United States"" ; Times: 1
+	Query: "Clariidae country:"United States"" ; Times: 1
+	Query: "family:Moronidae country:"United States"" ; Times: 1
+	Query: "family:Callichthyidae country:"United States"" ; Times: 1
+	Query: "family:Engraulidae country:"United States"" ; Times: 1
+	Query: "family:Poeciliidae country:"United States"" ; Times: 1
+	Query: "family:Esocidae country:"United States"" ; Times: 1
+	Query: "family:Percidae country:"United States"" ; Times: 1
+	Query: "family:Amblyopsidae country:"United States"" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "family:Elassomatidae" ; Times: 2
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "family:Paralichthyidae country:"United States"" ; Times: 1
+	Query: "family:Pleuronectidae country:"United States"" ; Times: 1
+	Query: "family:Aphredoderidae" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "family:Sciaenidae country:"United States"" ; Times: 1
+	Query: "family:Hiodontidae country:"United States"" ; Times: 1
+	Query: "family:Dasyatidae country:"United States"" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(10.624617026439392,-85.67138671875))<19662" ; Times: 1
+	Query: "family:Percopsidae country:"United States"" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "family:Osmeridae country:"United States"" ; Times: 1
+	Query: "family:Cyprinidae country:"United States"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 35
+Total number of records downloaded: 6940
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 26
+Total number of records retrieved from searches: 162
+Number of download events that retrieved data from the resource: 35
+Total number of records downloaded: 6940
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
