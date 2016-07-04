@@ -1,0 +1,109 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 327
+Number of records retrieved in searches: 3320
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 307
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-25 ; Times: 287
+	Date: 2016-06-24 ; Times: 6
+	Date: 2016-06-23 ; Times: 1
+	Date: 2016-06-22 ; Times: 2
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-14 ; Times: 10
+	Date: 2016-06-01 ; Times: 5
+	Date: 2016-06-13 ; Times: 9
+	Date: 2016-06-02 ; Times: 4
+	Date: 2016-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "14852" ; Times: 1
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 84
+	Query: "specificepithet:carponotatus genus:Lutjanus" ; Times: 6
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 10
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 5
+	Query: "paraplagusia bilineata" ; Times: 1
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 2
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "11139" ; Times: 3
+	Query: "specificepithet:affinis genus:Euthynnus" ; Times: 2
+	Query: "specificepithet:curta genus:Anchoa" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 29
+	Query: "specificepithet:itajara genus:Epinephelus" ; Times: 1
+	Query: "type:specimen catalognumber:1062" ; Times: 1
+	Query: "catalognumber:16754" ; Times: 1
+	Query: "14557" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 17
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 1
+	Query: "lsu 7495" ; Times: 1
+	Query: "1831 lsumz" ; Times: 2
+	Query: "LSUMZ 210" ; Times: 1
+	Query: "lsumz 1831" ; Times: 1
+	Query: "14299" ; Times: 1
+	Query: "LSU 16657" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 22
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 54
+	Query: "14352" ; Times: 1
+	Query: "lsumz 7797" ; Times: 2
+	Query: "specificepithet:cephalus genus:Mugil continent:North America year &gt;= 1990 year &lt;= 2016 mappable:1" ; Times: 2
+	Query: "16754" ; Times: 1
+	Query: "LSUMZ 270" ; Times: 4
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 3
+	Query: "lsumz 7655" ; Times: 2
+	Query: "lsumz 7654" ; Times: 2
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 8
+	Query: "lsumz 7656" ; Times: 1
+	Query: "LSU 6645" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 18
+	Query: "specificepithet:fimbriata genus:Cyclopsetta" ; Times: 1
+	Query: "specificepithet:scituliceps genus:Synodus" ; Times: 1
+	Query: "catalognumber:8894" ; Times: 1
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "lsumz 7796" ; Times: 2
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 4
+	Query: "specificepithet:pichardi genus:Joturus" ; Times: 4
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 8
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1052 download events in this period)
+Total number of records downloaded: 168
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-14 ; Times: 2
+	Date: 2016-06-15 ; Times: 1
+	Date: 2016-06-12 ; Times: 1
+	Date: 2016-06-13 ; Times: 1
+	Date: 2016-06-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Huanuco&#34; country:&#34;Peru&#34; institutioncode:LSUMZ" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 1
+	Query: "amblyrhynchus" ; Times: 1
+	Query: "VULPES VULPES" ; Times: 1
+
+
+End of report.
