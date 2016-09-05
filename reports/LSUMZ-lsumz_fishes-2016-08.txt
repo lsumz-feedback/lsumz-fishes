@@ -1,0 +1,200 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 277
+Number of records retrieved in searches: 3895
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: United States ; Times: 259
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-14 ; Times: 11
+	Date: 2016-08-15 ; Times: 3
+	Date: 2016-08-16 ; Times: 18
+	Date: 2016-08-17 ; Times: 3
+	Date: 2016-08-19 ; Times: 55
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 10
+	Date: 2016-08-21 ; Times: 6
+	Date: 2016-08-20 ; Times: 160
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:rhomboides genus:Lagodon" ; Times: 3
+	Query: "specificepithet:speciosus genus:Gnathanodon" ; Times: 2
+	Query: "specificepithet:carponotatus genus:Lutjanus" ; Times: 2
+	Query: "specificepithet:thrissina genus:Harengula" ; Times: 1
+	Query: "specificepithet:cyprinoides genus:Megalops" ; Times: 2
+	Query: "specificepithet:maculatofasciatus genus:Paralabrax" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus" ; Times: 3
+	Query: "specificepithet:olivaris genus:Pylodictis" ; Times: 1
+	Query: "specificepithet:americanus genus:Menticirrhus" ; Times: 1
+	Query: "scientificname:Lepomis microlophus country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:nigripinnis genus:Rypticus" ; Times: 1
+	Query: "scientificname:Dorosoma petenense country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:annulatus genus:Sphoeroides" ; Times: 2
+	Query: "specificepithet:steindachneri genus:Ophioblennius" ; Times: 1
+	Query: "catalognumber:8462 institutioncode:LSUMZ" ; Times: 1
+	Query: "scientificname:Lepomis punctatus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:saurus genus:Oligoplites" ; Times: 3
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "scientificname:Pomoxis annularis country:United States mappable:1" ; Times: 4
+	Query: "Pteronotropis hubbsi" ; Times: 1
+	Query: "catalognumber:10455 institutioncode:LSUMZ" ; Times: 3
+	Query: "specificepithet:approximans genus:Polydactylus" ; Times: 1
+	Query: "scientificname:Micropterus salmoides country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:macrochirus genus:Lepomis" ; Times: 2
+	Query: "specificepithet:fimbriata genus:Cyclopsetta" ; Times: 1
+	Query: "catalognumber:15675 institutioncode:LSUMZ" ; Times: 1
+	Query: "Ituglanis" ; Times: 1
+	Query: "catalognumber:15676 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:lineatus genus:Achirus" ; Times: 2
+	Query: "catalognumber:15604 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:japonicus genus:Scomber" ; Times: 2
+	Query: "specificepithet:nigromaculatus genus:Pomoxis" ; Times: 3
+	Query: "specificepithet:erectus genus:Hippocampus" ; Times: 1
+	Query: "cercamia vietnam" ; Times: 1
+	Query: "specificepithet:pectinatus genus:Centropomus" ; Times: 1
+	Query: "specificepithet:usta genus:Nicholsina" ; Times: 1
+	Query: "specificepithet:stolifera genus:Lile" ; Times: 2
+	Query: "specificepithet:variegatus genus:Cyprinodon" ; Times: 3
+	Query: "catalognumber:16669 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:maximus genus:Lachnolaimus" ; Times: 2
+	Query: "scientificname:Dorosoma cepedianum country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Amia calva country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:argenteus genus:Eucinostomus" ; Times: 2
+	Query: "catalognumber:16668 institutioncode:LSUMZ" ; Times: 1
+	Query: "scientificname:Micropterus punctulatus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:harengus genus:Clupea" ; Times: 5
+	Query: "specificepithet:scriptus genus:Aluterus" ; Times: 2
+	Query: "specificepithet:cristatus genus:Blennius" ; Times: 1
+	Query: "specificepithet:brevipinna genus:Carcharhinus" ; Times: 1
+	Query: "specificepithet:monticola genus:Agonostomus" ; Times: 1
+	Query: "specificepithet:dispilus genus:Halichoeres" ; Times: 1
+	Query: "scientificname:Lepomis macrochirus country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:cornutus genus:Zanclus" ; Times: 2
+	Query: "specificepithet:alletteratus genus:Euthynnus" ; Times: 1
+	Query: "catalognumber:8542 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:saxatilis genus:Morone" ; Times: 3
+	Query: "cercamia tissue:1" ; Times: 1
+	Query: "LSUMZ 8904" ; Times: 1
+	Query: "specificepithet:apodus genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:bubalus genus:Ictiobus" ; Times: 4
+	Query: "specificepithet:petimba genus:Fistularia" ; Times: 1
+	Query: "specificepithet:undulatus genus:Micropogonias" ; Times: 2
+	Query: "catalognumber:8543 institutioncode:LSUMZ" ; Times: 2
+	Query: "specificepithet:carpio genus:Cyprinus" ; Times: 24
+	Query: "specificepithet:rivoliana genus:Seriola" ; Times: 1
+	Query: "specificepithet:nothus genus:Cynoscion" ; Times: 1
+	Query: "specificepithet:spilopterus genus:Citharichthys" ; Times: 3
+	Query: "specificepithet:acanthias genus:Squalus" ; Times: 4
+	Query: "specificepithet:holocanthus genus:Diodon" ; Times: 1
+	Query: "specificepithet:reidi genus:Hippocampus" ; Times: 1
+	Query: "Ancistrus and santiago" ; Times: 2
+	Query: "specificepithet:xanthurus genus:Leiostomus" ; Times: 6
+	Query: "Poecilia tissue:1" ; Times: 1
+	Query: "specificepithet:barracuda genus:Sphyraena" ; Times: 3
+	Query: "specificepithet:ronchus genus:Bairdiella" ; Times: 1
+	Query: "specificepithet:oxycephalus genus:Cirrhitichthys" ; Times: 1
+	Query: "specificepithet:rostrata genus:Anguilla" ; Times: 2
+	Query: "specificepithet:soporator genus:Bathygobius" ; Times: 3
+	Query: "specificepithet:maculatus genus:Dormitator" ; Times: 1
+	Query: "specificepithet:cephalus genus:Mugil" ; Times: 8
+	Query: "specificepithet:nebulosus genus:Cynoscion" ; Times: 3
+	Query: "specificepithet:marinus genus:Bagre" ; Times: 2
+	Query: "specificepithet:maculatus genus:Gobiomorus" ; Times: 1
+	Query: "scientificname:Lepomis marginatus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:microlepis genus:Mycteroperca" ; Times: 1
+	Query: "specificepithet:rufus genus:Bodianus" ; Times: 1
+	Query: "scientificname:Ameiurus natalis country:United States mappable:1" ; Times: 2
+	Query: "specificepithet:synagris genus:Lutjanus" ; Times: 2
+	Query: "specificepithet:chanos genus:Chanos" ; Times: 1
+	Query: "specificepithet:crysos genus:Caranx" ; Times: 1
+	Query: "specificepithet:osseus genus:Lepisosteus" ; Times: 2
+	Query: "specificepithet:chirurgus genus:Acanthurus" ; Times: 2
+	Query: "parapriacanthus tissue:1" ; Times: 7
+	Query: "catalognumber:16941 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:tiburo genus:Sphyrna" ; Times: 1
+	Query: "specificepithet:acus genus:Tylosurus" ; Times: 1
+	Query: "specificepithet:hippos genus:Caranx" ; Times: 3
+	Query: "valenciennea sexguttata" ; Times: 1
+	Query: "specificepithet:hispidus genus:Arothron" ; Times: 1
+	Query: "specificepithet:faber genus:Chaetodipterus" ; Times: 3
+	Query: "specificepithet:argalus genus:Platybelone" ; Times: 1
+	Query: "Ameca splendens" ; Times: 1
+	Query: "specificepithet:auratus genus:Carassius" ; Times: 3
+	Query: "specificepithet:latifrons genus:Dormitator" ; Times: 1
+	Query: "specificepithet:brevoortii genus:Selene" ; Times: 1
+	Query: "specificepithet:cromis genus:Pogonias" ; Times: 1
+	Query: "14878" ; Times: 1
+	Query: "specificepithet:punctatus genus:Ictalurus" ; Times: 7
+	Query: "specificepithet:lepturus genus:Trichiurus" ; Times: 1
+	Query: "specificepithet:salar genus:Salmo" ; Times: 1
+	Query: "specificepithet:guttatus genus:Lutjanus" ; Times: 1
+	Query: "specificepithet:norrisi genus:Mustelus" ; Times: 1
+	Query: "trachinocephalus tissue:1" ; Times: 4
+	Query: "specificepithet:passer genus:Holacanthus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Bathygobius" ; Times: 1
+	Query: "scientificname:Lepomis cyanellus country:United States mappable:1" ; Times: 2
+	Query: "scientificname:Lepomis megalotis country:United States mappable:1" ; Times: 3
+	Query: "specificepithet:foetens genus:Synodus" ; Times: 3
+	Query: "specificepithet:panamensis genus:Bagre" ; Times: 1
+	Query: "catalognumber:8693 institutioncode:LSUMZ" ; Times: 1
+	Query: "scientificname:Lepomis gulosus country:United States mappable:1" ; Times: 1
+	Query: "specificepithet:crocodilus genus:Tylosurus" ; Times: 2
+	Query: "specificepithet:pichardi genus:Joturus" ; Times: 1
+	Query: "specificepithet:annularis genus:Pomoxis" ; Times: 4
+	Query: "catalognumber:15923 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "specificepithet:cepedianum genus:Dorosoma" ; Times: 7
+	Query: "13787" ; Times: 1
+	Query: "catalognumber:13109 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:peruvianus genus:Diapterus" ; Times: 1
+	Query: "catalognumber:14406 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:fasciatus genus:Epinephelus" ; Times: 2
+	Query: "specificepithet:troschelii genus:Abudefduf" ; Times: 1
+	Query: "specificepithet:vulpes genus:Albula" ; Times: 1
+	Query: "specificepithet:curema genus:Mugil" ; Times: 2
+	Query: "specificepithet:lacertinus genus:Synodus" ; Times: 1
+	Query: "specificepithet:colorado genus:Lutjanus" ; Times: 1
+	Query: "caracal caracal" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 924 download events in this period)
+Total number of records downloaded: 145
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-10 ; Times: 1
+	Date: 2016-08-23 ; Times: 1
+	Date: 2016-08-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ituglanis" ; Times: 1
+	Query: "poecilia reticulata" ; Times: 1
+	Query: "Chondrichthyes" ; Times: 1
+	Query: "valenciennea sexguttata" ; Times: 1
+	Query: "Mexico" ; Times: 1
+
+
+End of report.
