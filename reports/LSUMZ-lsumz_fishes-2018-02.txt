@@ -1,0 +1,145 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 473
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 95
+	Country: Germany ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 8
+	Date: 2018-02-27 ; Times: 10
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-20 ; Times: 1
+	Date: 2018-02-28 ; Times: 5
+	Date: 2018-02-26 ; Times: 2
+	Date: 2018-02-19 ; Times: 5
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 5
+	Date: 2018-02-01 ; Times: 3
+	Date: 2018-02-23 ; Times: 3
+	Date: 2018-02-06 ; Times: 2
+	Date: 2018-02-05 ; Times: 56
+	Date: 2018-02-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Sicydium altum mappable:1" ; Times: 1
+	Query: "catalognumber:1339 institutioncode:LSUMZ" ; Times: 2
+	Query: "15928" ; Times: 1
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 3
+	Query: "Rivulidae" ; Times: 4
+	Query: "Sicydium punctatum mappable:1" ; Times: 1
+	Query: "institutioncode:LSUMZ" ; Times: 1
+	Query: "family:aplocheilidae country:&#34;Panama&#34;" ; Times: 1
+	Query: "Ctenochaetus striatus" ; Times: 3
+	Query: "genus:Myctophum hastissue:1" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 1
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 2
+	Query: "catalognumber:12873 institutioncode:LSUMZ" ; Times: 1
+	Query: "Naso annulatus" ; Times: 1
+	Query: "genus:Amblygobius basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "belonesox belizanus" ; Times: 1
+	Query: "Naso lituratus" ; Times: 2
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "Acanthurus lineatus mappable:1" ; Times: 1
+	Query: "Prionurus punctatus" ; Times: 1
+	Query: "Acanthurus pyroferus" ; Times: 3
+	Query: "caracal" ; Times: 1
+	Query: "catalognumber:12810 institutioncode:LSUMZ" ; Times: 1
+	Query: "goodea atripinnis" ; Times: 1
+	Query: "Naso annulatus mappable:1" ; Times: 1
+	Query: "Acanthurus pyroferus mappable:1" ; Times: 3
+	Query: "parachromis managuensis" ; Times: 1
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "catalognumber:5283 institutioncode:LSUMZ" ; Times: 1
+	Query: "&#34;Esox niger&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "genus:Amblygobius hastissue:1" ; Times: 2
+	Query: "Awaous banana mappable:1" ; Times: 2
+	Query: "psammogobius biocellatus" ; Times: 1
+	Query: "hydrolycus scomberoides" ; Times: 2
+	Query: "specificepithet:lobatus genus:sphoeroides" ; Times: 1
+	Query: "Sicydium plumieri mappable:1" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 2
+	Query: "catalognumber:15549 institutioncode:LSUMZ" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "catalognumber:1343 institutioncode:LSUMZ" ; Times: 2
+	Query: "Macrognathus siamensis" ; Times: 2
+	Query: "Oreochromis mossambicus" ; Times: 2
+	Query: "Acanthurus olivaceus" ; Times: 2
+	Query: "Acanthurus nigroris" ; Times: 2
+	Query: "Ctenochaetus strigosus" ; Times: 6
+	Query: "catalognumber:12815 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSU 12924" ; Times: 1
+	Query: "Acanthurus chirurgus" ; Times: 3
+	Query: "Sardinella lemuru" ; Times: 1
+	Query: "Caracal caracal" ; Times: 2
+	Query: "(Pseudochromidae) hastissue:1" ; Times: 4
+	Query: "Acanthurus lineatus" ; Times: 1
+	Query: "catalognumber:6385 institutioncode:LSUMZ" ; Times: 1
+	Query: "Prionurus laticlavius" ; Times: 1
+	Query: "order:Myctophiformes hastissue:1" ; Times: 1
+	Query: "16877 LSUMZ" ; Times: 2
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "Prionurus punctatus mappable:1" ; Times: 1
+	Query: "catalognumber:6020" ; Times: 1
+	Query: "institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "catalognumber:10361 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "Ctenopharyngodon idella hastissue:1" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "Caracal caracal mappable:1" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "Prionurus laticlavius mappable:1" ; Times: 1
+	Query: "Sicydium multipunctatum mappable:1" ; Times: 1
+	Query: "catalognumber:6449 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:6613 institutioncode:LSUMZ" ; Times: 1
+	Query: "Naso hexacanthus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1892 download events in this period)
+Total number of records downloaded: 43
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Czechia ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-16 ; Times: 1
+	Date: 2018-02-22 ; Times: 2
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-18 ; Times: 1
+	Date: 2018-02-02 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Actinopterygii stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "Fish Tennessee" ; Times: 1
+	Query: "pylodictis olivaris" ; Times: 1
+	Query: "dasyatis sabina" ; Times: 1
+	Query: "order:Gymnotiformes mappable:1" ; Times: 1
+	Query: "Pontinus" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+
+
+End of report.
