@@ -1,0 +1,139 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 1318
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 85
+	Country: Unknown ; Times: 1
+	Country: Honduras ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 30
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-17 ; Times: 42
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 6
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "8415 institutioncode:LSUMZ" ; Times: 3
+	Query: "Polycentridae hastissue:1" ; Times: 1
+	Query: "Atherinidae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Phallostethidae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "institutioncode:LSUMZ" ; Times: 2
+	Query: "8750 institutioncode:LSUMZ" ; Times: 2
+	Query: "Atherinopsidae institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "Cyprinodontidae institutioncode:LSUMZ hastissue:1" ; Times: 2
+	Query: "caracal caracal mappable:1" ; Times: 1
+	Query: "1823 institutioncode:LSUMZ" ; Times: 2
+	Query: "1732 institutioncode:LSUMZ" ; Times: 2
+	Query: "Phallostethidae hastissue:1" ; Times: 3
+	Query: "Atheriniformes institutioncode:LSUMZ hastissue:1" ; Times: 3
+	Query: "Polycentridae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Hiodon hastissue:1" ; Times: 1
+	Query: "Mylossoma duriventre" ; Times: 1
+	Query: "Nandidae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Pseudochromidae hastissue:1" ; Times: 2
+	Query: "8770 institutioncode:LSUMZ" ; Times: 3
+	Query: "profundulus" ; Times: 1
+	Query: "8064 institutioncode:LSUMZ" ; Times: 1
+	Query: "mauligobius" ; Times: 1
+	Query: "thorogobius" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "Pseudochromidae institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "recordedby:McMahan" ; Times: 1
+	Query: "7704 institutioncode:LSUMZ" ; Times: 3
+	Query: "Ambassidae hastissue:1" ; Times: 3
+	Query: "catalognumber:10905 institutioncode:LSUMZ" ; Times: 2
+	Query: "Adrianichthyidae hastissue:1" ; Times: 1
+	Query: "Neostethus hastissue:1" ; Times: 2
+	Query: "catalognumber:9529 institutioncode:LSUMZ" ; Times: 1
+	Query: "8226 institutioncode:LSUMZ" ; Times: 3
+	Query: "14723 institutioncode:LSUMZ" ; Times: 1
+	Query: "Nandidae hastissue:1" ; Times: 2
+	Query: "13989" ; Times: 1
+	Query: "Atherinidae hastissue:1" ; Times: 3
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "Polymixia hastissue:1" ; Times: 3
+	Query: "catalognumber:10899 institutioncode:LSUMZ" ; Times: 1
+	Query: "8214 institutioncode:LSUMZ" ; Times: 3
+	Query: "Polycentropsis hastissue:1" ; Times: 1
+	Query: "Caracal caracal mappable:1" ; Times: 1
+	Query: "2840 institutioncode:LSUMZ" ; Times: 3
+	Query: "catalognumber:7343 institutioncode:LSUMZ" ; Times: 1
+	Query: "8789 institutioncode:LSUMZ" ; Times: 2
+	Query: "2702 institutioncode:LSUMZ" ; Times: 2
+	Query: "15942 institutioncode:LSUMZ" ; Times: 4
+	Query: "Hypoatherina hastissue:1" ; Times: 5
+	Query: "(McMahan)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1359 download events in this period)
+Total number of records downloaded: 290
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Brazil ; Times: 21
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-03 ; Times: 5
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-19 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 1
+	Date: 2018-04-24 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "Gambusia holbrooki" ; Times: 2
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "Cyprinella lutrensis" ; Times: 2
+	Query: "Heptapteridae" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "Monopterus albus" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "oncorhynchus nerka" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "oncorhynchus tshawytscha" ; Times: 1
+	Query: "Micropterus salmoides" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "Lebiasina bimaculata" ; Times: 1
+	Query: "Pterygoplichthys multiradiatus" ; Times: 1
+	Query: "vntype:specimen (Hiodontidae) hastissue:1" ; Times: 1
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "Pylodictis olivaris" ; Times: 2
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "Clarias batrachus" ; Times: 1
+	Query: "raccoon" ; Times: 1
+
+
+End of report.
