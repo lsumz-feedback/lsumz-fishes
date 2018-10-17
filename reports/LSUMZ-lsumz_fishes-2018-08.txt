@@ -1,0 +1,141 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 523
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 56
+	Country: Mexico ; Times: 8
+	Country: Denmark ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-27 ; Times: 19
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-12 ; Times: 2
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-30 ; Times: 8
+	Date: 2018-08-31 ; Times: 5
+	Date: 2018-08-24 ; Times: 2
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-22 ; Times: 3
+	Date: 2018-08-21 ; Times: 6
+	Date: 2018-08-20 ; Times: 6
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-17 ; Times: 2
+	Date: 2018-08-14 ; Times: 2
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-01 ; Times: 8
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ogcocephalus hastissue:1" ; Times: 4
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 2
+	Query: "institutioncode:LSUMZ" ; Times: 2
+	Query: "sphoeroides hastissue:1" ; Times: 3
+	Query: "Leporinus trifasciatus" ; Times: 1
+	Query: "genus:Xiphophorus" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 3
+	Query: "absconditus" ; Times: 1
+	Query: "ogcocephalus nasutus hastissue:1" ; Times: 1
+	Query: "Xenoophorus captivus" ; Times: 1
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "Melichthys vidua" ; Times: 1
+	Query: "vntype:specimen institutioncode:LSUMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "catalognumber:16064 institutioncode:LSUMZ" ; Times: 1
+	Query: "eugerres plumieri" ; Times: 2
+	Query: "catalognumber:2021 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:3403 institutioncode:LSUMZ" ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "catalognumber:5448 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:9269 institutioncode:LSUMZ" ; Times: 2
+	Query: "12173 LSUMZ" ; Times: 1
+	Query: "aphanius" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "Sufflamen chrysopterus mappable:1" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "specificepithet:moluccensis genus:Upeneus" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "specificepithet:pangasius genus:Pangasius" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 1
+	Query: "7928 LSUMZ" ; Times: 1
+	Query: "15862" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "LSUMZ 9409" ; Times: 1
+	Query: "10935 LSUMZ" ; Times: 1
+	Query: "LSUMZ 8372" ; Times: 1
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "Rhytiodus microlepis" ; Times: 1
+	Query: "Abalistes stellatus" ; Times: 3
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 3
+	Query: "12547 LSUMZ" ; Times: 1
+	Query: "Odonus niger" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "(Cabassous OR Panthera OR Ateles) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Sufflamen verres" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 1
+	Query: "V 1128" ; Times: 1
+	Query: "catalognumber:579 institutioncode:LSUMZ" ; Times: 1
+	Query: "Sufflamen chrysopterus" ; Times: 1
+	Query: "Ituglanis" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "Hypostomus hemicochliodon" ; Times: 1
+	Query: "(Cabassous OR Panthera) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1416 download events in this period)
+Total number of records downloaded: 149
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Brazil ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Peru ; Times: 9
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-18 ; Times: 3
+	Date: 2018-08-30 ; Times: 3
+	Date: 2018-08-24 ; Times: 1
+	Date: 2018-08-09 ; Times: 2
+	Date: 2018-08-21 ; Times: 3
+	Date: 2018-08-20 ; Times: 4
+	Date: 2018-08-23 ; Times: 1
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois antennata" ; Times: 1
+	Query: "Prochilodus nigricans" ; Times: 1
+	Query: "eugerres plumieri" ; Times: 1
+	Query: "Hoplias malabaricus" ; Times: 1
+	Query: "ogcocephalus hastissue:1" ; Times: 1
+	Query: "specificepithet:pangasius genus:Pangasius" ; Times: 1
+	Query: "Ituglanis" ; Times: 1
+	Query: "prochilodus nigricans" ; Times: 2
+	Query: "sphoeroides hastissue:1" ; Times: 1
+	Query: "Leporinus trifasciatus" ; Times: 1
+	Query: "Leporinus friderici" ; Times: 2
+	Query: "&#34;Chesapeake Bay&#34;" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Schizodon fasciatus" ; Times: 1
+	Query: "&#34;Rhinecanthus aculeatus&#34;" ; Times: 1
+	Query: "Rhytiodus microlepis" ; Times: 1
+
+
+End of report.
