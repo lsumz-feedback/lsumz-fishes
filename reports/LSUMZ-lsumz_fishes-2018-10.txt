@@ -1,0 +1,200 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 177
+Number of records retrieved in searches: 856
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Venezuela ; Times: 3
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Netherlands ; Times: 5
+	Country: United States ; Times: 155
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 2
+	Date: 2018-10-05 ; Times: 6
+	Date: 2018-10-26 ; Times: 1
+	Date: 2018-10-01 ; Times: 12
+	Date: 2018-10-02 ; Times: 43
+	Date: 2018-10-03 ; Times: 6
+	Date: 2018-10-25 ; Times: 2
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 3
+	Date: 2018-10-23 ; Times: 15
+	Date: 2018-10-18 ; Times: 2
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-31 ; Times: 4
+	Date: 2018-10-10 ; Times: 2
+	Date: 2018-10-24 ; Times: 4
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 67
+	Date: 2018-10-27 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "14141 institutioncode:LSUMZ" ; Times: 1
+	Query: "Acipenser brevirostrum" ; Times: 1
+	Query: "Fundulus diaphanus Chesapeake Bay" ; Times: 1
+	Query: "14160 institutioncode:LSUMZ" ; Times: 1
+	Query: "Ichthyocampus carce mappable:1" ; Times: 1
+	Query: "San Luis Potosí fishes" ; Times: 1
+	Query: "Roeboides bouchellei" ; Times: 2
+	Query: "catalognumber:9690 hastissue:1" ; Times: 1
+	Query: "Rajella purpuriventralis" ; Times: 1
+	Query: "14138 institutioncode:LSUMZ" ; Times: 1
+	Query: "14150 institutioncode:LSUMZ" ; Times: 1
+	Query: "14152 institutioncode:LSUMZ" ; Times: 1
+	Query: "14100 institutioncode:LSUMZ" ; Times: 1
+	Query: "Sufflamen chrysopterus mappable:1" ; Times: 1
+	Query: "14154 institutioncode:LSUMZ" ; Times: 2
+	Query: "Dactylopus dactylopus mappable:1" ; Times: 1
+	Query: "Lactoria cornuta mappable:1" ; Times: 1
+	Query: "Hemichromis Florida" ; Times: 5
+	Query: "Corythoichthys intestinalis" ; Times: 2
+	Query: "Pseudophallus mindii" ; Times: 1
+	Query: "Callionymus curvicornis" ; Times: 2
+	Query: "14137 institutioncode:LSUMZ" ; Times: 2
+	Query: "Syngnathus louisianae" ; Times: 1
+	Query: "catalognumber:8163 institutioncode:LSUMZ" ; Times: 1
+	Query: "vntype:specimen genus:Opisthonema hastissue:1" ; Times: 1
+	Query: "14156 institutioncode:LSUMZ" ; Times: 1
+	Query: "Trachyrhamphus serratus" ; Times: 1
+	Query: "14128 institutioncode:LSUMZ" ; Times: 1
+	Query: "14155 institutioncode:LSUMZ" ; Times: 2
+	Query: "Hippocampus kuda" ; Times: 8
+	Query: "stateprovince:&#34;Okinawa&#34; country:&#34;Japan&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "Synchiropus bartelsi" ; Times: 1
+	Query: "LSUMZ 4281" ; Times: 1
+	Query: "Callionymus hindsii" ; Times: 1
+	Query: "Melichthys vidua" ; Times: 1
+	Query: "14159 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:4739 institutioncode:LSUMZ" ; Times: 2
+	Query: "14134 institutioncode:LSUMZ" ; Times: 1
+	Query: "Lactoria cornuta" ; Times: 1
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "catalognumber:4735 institutioncode:LSUMZ" ; Times: 3
+	Query: "Aulostomus chinensis" ; Times: 2
+	Query: "Rhinecanthus aculeatus aculeatus" ; Times: 1
+	Query: "catalognumber:9666 hastissue:1" ; Times: 1
+	Query: "14144 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 10351" ; Times: 2
+	Query: "Alosa pseudoharengus Chesapeake Bay" ; Times: 3
+	Query: "Ostracion meleagris meleagris" ; Times: 1
+	Query: "Balistes vetula" ; Times: 1
+	Query: "Callionymus filamentosus mappable:1" ; Times: 1
+	Query: "Doryrhamphus excisus excisus" ; Times: 1
+	Query: "Abalistes stellatus" ; Times: 2
+	Query: "14153 institutioncode:LSUMZ" ; Times: 2
+	Query: "san luis potosi fishes" ; Times: 2
+	Query: "catalognumber:9630 hastissue:1" ; Times: 1
+	Query: "Ostracion meleagris" ; Times: 1
+	Query: "Pseudophallus mindii mappable:1" ; Times: 1
+	Query: "Trachyrhamphus serratus mappable:1" ; Times: 1
+	Query: "14142 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:1496 hastissue:1" ; Times: 1
+	Query: "1414* institutioncode:LSUMZ" ; Times: 1
+	Query: "Callionymus japonicus japonicus" ; Times: 1
+	Query: "14158 institutioncode:LSUMZ" ; Times: 1
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 1
+	Query: "Hippichthys penicillus" ; Times: 1
+	Query: "Hippocampus reidi" ; Times: 1
+	Query: "Syngnathus louisianae mappable:1" ; Times: 1
+	Query: "Fundulus heteroclitus Chesapeake Bay" ; Times: 2
+	Query: "Corythoichthys intestinalis intestinalis" ; Times: 1
+	Query: "catalognumber:4853 institutioncode:LSUMZ" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "Callionymus doryssus" ; Times: 1
+	Query: "country:&#34;Japan&#34; institutioncode:LSUMZ" ; Times: 5
+	Query: "14145 institutioncode:LSUMZ" ; Times: 1
+	Query: "Hippichthys cyanospilos mappable:1" ; Times: 1
+	Query: "sphyrna hastissue:1" ; Times: 1
+	Query: "Syngnathus floridae" ; Times: 1
+	Query: "Callionymus marleyi mappable:1" ; Times: 2
+	Query: "Ostracion meleagris meleagris mappable:1" ; Times: 1
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "Hippocampus hudsonius" ; Times: 1
+	Query: "catalognumber:1882 institutioncode:LSUMZ" ; Times: 1
+	Query: "Odonus niger" ; Times: 1
+	Query: "Microphis brachyurus brachyurus" ; Times: 1
+	Query: "Callionymus japonicus" ; Times: 2
+	Query: "Ostracion meleagris mappable:1" ; Times: 1
+	Query: "14101 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:4820 institutioncode:LSUMZ" ; Times: 1
+	Query: "Fundulus majalis Chesapeake Bay" ; Times: 1
+	Query: "14113 institutioncode:LSUMZ" ; Times: 1
+	Query: "Sufflamen bursa" ; Times: 1
+	Query: "Callionymus planus" ; Times: 1
+	Query: "Callionymus marleyi" ; Times: 2
+	Query: "Canthidermis maculatus" ; Times: 2
+	Query: "Torpedo nobiliana" ; Times: 2
+	Query: "14140 institutioncode:LSUMZ" ; Times: 1
+	Query: "Synchiropus grinnelli mappable:1" ; Times: 1
+	Query: "Lactophrys quadricornis" ; Times: 1
+	Query: "catalognumber:6313 institutioncode:LSUMZ" ; Times: 1
+	Query: "Callionymus curvicornis mappable:1" ; Times: 2
+	Query: "Callionymus hindsii mappable:1" ; Times: 1
+	Query: "14112 institutioncode:LSUMZ" ; Times: 2
+	Query: "Microphis brachyurus" ; Times: 3
+	Query: "caracal" ; Times: 1
+	Query: "14109 institutioncode:LSUMZ" ; Times: 1
+	Query: "Hippocampus zosterae" ; Times: 1
+	Query: "Synchiropus grinnelli" ; Times: 1
+	Query: "Dactylopus dactylopus" ; Times: 1
+	Query: "Ichthyocampus carce" ; Times: 1
+	Query: "Syngnathus elucens" ; Times: 1
+	Query: "Doryrhamphus excisus" ; Times: 1
+	Query: "14114 institutioncode:LSUMZ" ; Times: 2
+	Query: "Callionymus sublaevis mappable:1" ; Times: 1
+	Query: "Callionymus sublaevis" ; Times: 1
+	Query: "Hippichthys cyanospilos" ; Times: 1
+	Query: "lsumz 1569" ; Times: 1
+	Query: "catalognumber:4470" ; Times: 1
+	Query: "Microphis brachyurus mappable:1" ; Times: 3
+	Query: "15546" ; Times: 1
+	Query: "sicydium punctatum" ; Times: 1
+	Query: "Rhinecanthus aculeatus" ; Times: 1
+	Query: "catalognumber:377 institutioncode:LSUMZ" ; Times: 1
+	Query: "characodon" ; Times: 1
+	Query: "Sufflamen verres" ; Times: 1
+	Query: "Syngnathus leptorhynchus" ; Times: 1
+	Query: "Sufflamen chrysopterus" ; Times: 1
+	Query: "14157 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:4840 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:9663 hastissue:1" ; Times: 1
+	Query: "Plecoglossus altivelis" ; Times: 1
+	Query: "LSUMZ 1889" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1300 download events in this period)
+Total number of records downloaded: 229
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-13 ; Times: 1
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-02 ; Times: 1
+	Date: 2018-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sphyrna hastissue:1" ; Times: 1
+	Query: "Siphamia" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "san luis potosi fishes" ; Times: 1
+	Query: "specificepithet:saltatrix genus:Pomatomus" ; Times: 1
+
+
+End of report.
