@@ -1,0 +1,90 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 54
+Number of records retrieved in searches: 479
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 38
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 2
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-07 ; Times: 24
+	Date: 2019-01-14 ; Times: 3
+	Date: 2019-01-15 ; Times: 2
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-17 ; Times: 4
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-24 ; Times: 1
+	Date: 2019-01-27 ; Times: 1
+	Date: 2019-01-08 ; Times: 4
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-30 ; Times: 1
+	Date: 2019-01-23 ; Times: 4
+	Date: 2019-01-16 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "ogcocephalus hastissue:1" ; Times: 4
+	Query: "Paraplagusia japonica" ; Times: 1
+	Query: "Cynoglossus suyeni" ; Times: 2
+	Query: "catalognumber:7451 institutioncode:LSUMZ" ; Times: 4
+	Query: "catalognumber:7373 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:7366 institutioncode:LSUMZ" ; Times: 2
+	Query: "institutioncode:LSUMZ" ; Times: 2
+	Query: "LSU 5670" ; Times: 1
+	Query: "16565" ; Times: 1
+	Query: "institutioncode:lsumz" ; Times: 1
+	Query: "catalognumber:7371 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:7367 institutioncode:LSUMZ" ; Times: 2
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "catalognumber:7376 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:11114 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:7372 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "16264" ; Times: 1
+	Query: "Solea solea mappable:1" ; Times: 3
+	Query: "16408" ; Times: 1
+	Query: "vntype:specimen institutioncode:LSUMZ" ; Times: 2
+	Query: "Cynoglossus robustus" ; Times: 1
+	Query: "15059" ; Times: 1
+	Query: "LSU 16398" ; Times: 1
+	Query: "LSU 16399" ; Times: 2
+	Query: "catalognumber:7447 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:10033 institutioncode:LSUMZ" ; Times: 2
+	Query: "class:aves year &gt;= 1900 year &lt;= 2018 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:2800 institutioncode:LSUMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 962 download events in this period)
+Total number of records downloaded: 54
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-25 ; Times: 2
+	Date: 2019-01-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Fundulus jenkinsi" ; Times: 2
+	Query: "class:Aves institutioncode:LSUMZ" ; Times: 1
+	Query: "recordedby:Maria basisofrecord:PreservedSpecimen" ; Times: 2
+
+
+End of report.
