@@ -1,0 +1,131 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 142
+Number of records retrieved in searches: 630
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: France ; Times: 98
+	Country: United States ; Times: 28
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-04 ; Times: 1
+	Date: 2019-02-28 ; Times: 15
+	Date: 2019-02-05 ; Times: 5
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-15 ; Times: 2
+	Date: 2019-02-24 ; Times: 6
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-27 ; Times: 93
+	Date: 2019-02-20 ; Times: 2
+	Date: 2019-02-07 ; Times: 5
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-23 ; Times: 1
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-08 ; Times: 2
+	Date: 2019-02-06 ; Times: 2
+	Date: 2019-02-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "13701" ; Times: 1
+	Query: "Anchovia clupeoides mappable:1" ; Times: 2
+	Query: "polyipnus triphanos" ; Times: 2
+	Query: "vntype:specimen genus:synchiropus hastissue:1" ; Times: 1
+	Query: "Lophogobius cyprinoides mappable:1" ; Times: 4
+	Query: "Scolichthys" ; Times: 1
+	Query: "Evorthodus lyricus mappable:1" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 3
+	Query: "Centropomus ensiferus mappable:1" ; Times: 6
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "Priapichthys" ; Times: 1
+	Query: "14262" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 6
+	Query: "genus:lates" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 3
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "Dormitator maculatus mappable:1" ; Times: 2
+	Query: "Lutjanus jocu mappable:1" ; Times: 1
+	Query: "Prochilodus nigricans hastissue:1" ; Times: 1
+	Query: "Belonesox" ; Times: 1
+	Query: "Rhinobatos punctifer" ; Times: 4
+	Query: "Carlhubbsia" ; Times: 1
+	Query: "18081" ; Times: 1
+	Query: "Strongylura timucu mappable:1" ; Times: 10
+	Query: "vntype:specimen genus:aulostomus hastissue:1" ; Times: 1
+	Query: "catalognumber:2704 institutioncode:LSUMZ" ; Times: 2
+	Query: "Albula vulpes mappable:1" ; Times: 4
+	Query: "Diapterus rhombeus mappable:1" ; Times: 4
+	Query: "Harengula jaguana mappable:1" ; Times: 6
+	Query: "genus:sphoeroides hastissue:1" ; Times: 1
+	Query: "Melanocetus murrayi" ; Times: 4
+	Query: "Diapterus auratus mappable:1" ; Times: 3
+	Query: "Chromis enchrysura mappable:1" ; Times: 1
+	Query: "Anchoa parva mappable:1" ; Times: 2
+	Query: "Hypsophrys nicaraguensis" ; Times: 1
+	Query: "Opistognathus aurifrons mappable:1" ; Times: 2
+	Query: "genus:lates hastissue:1" ; Times: 4
+	Query: "Centropomus pectinatus mappable:1" ; Times: 6
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 4
+	Query: "Microphis brachyurus mappable:1" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 4
+	Query: "Archosargus rhomboidalis mappable:1" ; Times: 1
+	Query: "Aluterus scriptus mappable:1" ; Times: 1
+	Query: "Joturus pichardi mappable:1" ; Times: 4
+	Query: "catalognumber:7846 institutioncode:LSUMZ" ; Times: 1
+	Query: "Metavelifer multiradiatus" ; Times: 1
+	Query: "Pseudoxiphophorus" ; Times: 1
+	Query: "absconditus" ; Times: 1
+	Query: "catalognumber:7375 institutioncode:lsumz" ; Times: 1
+	Query: "Caracal caracal mappable:1" ; Times: 6
+	Query: "Chaetodipterus faber mappable:1" ; Times: 2
+	Query: "punctifer" ; Times: 1
+	Query: "Centropyge argi mappable:1" ; Times: 1
+	Query: "Gobiomorus dormitor mappable:1" ; Times: 3
+	Query: "Eugerres plumieri mappable:1" ; Times: 5
+	Query: "Halieutichthys intermedius" ; Times: 2
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1227 download events in this period)
+Total number of records downloaded: 256
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 1
+	Date: 2019-02-24 ; Times: 9
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-14 ; Times: 1
+	Date: 2019-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Belonesox belizanus" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon hastissue:1" ; Times: 1
+	Query: "Phallichthys" ; Times: 1
+	Query: "Pterois volitans" ; Times: 1
+	Query: "Pseudoxiphophorus" ; Times: 1
+	Query: "Scolichthys" ; Times: 1
+	Query: "poeciliopsis" ; Times: 1
+	Query: "Brachyrhaphis" ; Times: 1
+	Query: "Carlhubbsia" ; Times: 1
+	Query: "Heterandria" ; Times: 1
+	Query: "genus:ictalurus country:&#34;México&#34;" ; Times: 2
+	Query: "Neoheterandria" ; Times: 1
+	Query: "Priapichthys" ; Times: 1
+
+
+End of report.
