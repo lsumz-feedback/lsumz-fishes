@@ -1,0 +1,152 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 177
+Number of records retrieved in searches: 531
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Turkey ; Times: 8
+	Country: Honduras ; Times: 3
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 1
+	Country: France ; Times: 133
+	Country: United States ; Times: 16
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-18 ; Times: 3
+	Date: 2019-03-11 ; Times: 11
+	Date: 2019-03-03 ; Times: 1
+	Date: 2019-03-01 ; Times: 44
+	Date: 2019-03-19 ; Times: 6
+	Date: 2019-03-08 ; Times: 9
+	Date: 2019-03-13 ; Times: 9
+	Date: 2019-03-30 ; Times: 2
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-29 ; Times: 7
+	Date: 2019-03-21 ; Times: 1
+	Date: 2019-03-20 ; Times: 1
+	Date: 2019-03-04 ; Times: 8
+	Date: 2019-03-14 ; Times: 19
+	Date: 2019-03-06 ; Times: 13
+	Date: 2019-03-12 ; Times: 5
+	Date: 2019-03-07 ; Times: 32
+	Date: 2019-03-10 ; Times: 1
+	Date: 2019-03-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "15384" ; Times: 1
+	Query: "mugil liza" ; Times: 1
+	Query: "Trachinotus falcatus mappable:1" ; Times: 2
+	Query: "15088" ; Times: 1
+	Query: "Diapterus rhombeus mappable:1" ; Times: 1
+	Query: "institutioncode:LSUMZ" ; Times: 2
+	Query: "Ogcocephalus nasutus mappable:1" ; Times: 5
+	Query: "Chromis enchrysura mappable:1" ; Times: 1
+	Query: "Selene vomer mappable:1" ; Times: 3
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 1
+	Query: "catalognumber:16059 institutioncode:LSUMZ" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 1
+	Query: "Centropomus ensiferus mappable:1" ; Times: 1
+	Query: "Selene setapinnis mappable:1" ; Times: 3
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 7
+	Query: "Brotula barbata mappable:1" ; Times: 5
+	Query: "Centropomus parallelus mappable:1" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "Pomadasys crocro mappable:1" ; Times: 10
+	Query: "LSU 6031" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 8
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "Diplectrum formosum mappable:1" ; Times: 1
+	Query: "Vulpes vulpes institutioncode:LSUMZ" ; Times: 1
+	Query: "Lutjanus jocu mappable:1" ; Times: 4
+	Query: "Centropyge argi mappable:1" ; Times: 1
+	Query: "Archosargus rhomboidalis mappable:1" ; Times: 1
+	Query: "catalognumber:8401 institutioncode:LSUMZ" ; Times: 2
+	Query: "Lobotes surinamensis mappable:1" ; Times: 2
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "Bairdiella ronchus mappable:1" ; Times: 6
+	Query: "Talismania antillarum" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 3
+	Query: "catalognumber:2773 institutioncode:LSUMZ" ; Times: 1
+	Query: "Syacium gunteri mappable:1" ; Times: 1
+	Query: "catalognumber:8393 institutioncode:LSUMZ" ; Times: 2
+	Query: "ATRACTOSTEUS TROPICUS" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 6
+	Query: "Umbrina coroides mappable:1" ; Times: 5
+	Query: "locality:cave stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 1
+	Query: "sicydium plumieri honduras" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 1
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 9
+	Query: "order:Lepisosteiformes hastissue:1" ; Times: 1
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 8
+	Query: "Antennarius striatus mappable:1" ; Times: 6
+	Query: "Galeocharax" ; Times: 1
+	Query: "Priacanthus arenatus mappable:1" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 1
+	Query: "Centropomus pectinatus mappable:1" ; Times: 1
+	Query: "percina rex" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+	Query: "LSUMZ 8802" ; Times: 1
+	Query: "atractosteus tropicus" ; Times: 1
+	Query: "catalognumber:14319 institutioncode:LSUMZ" ; Times: 1
+	Query: "gobionellus daguae" ; Times: 2
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "LSUMZ 7367" ; Times: 2
+	Query: "sicydium plumieri" ; Times: 2
+	Query: "Joturus pichardi mappable:1" ; Times: 1
+	Query: "LSUMZ 8111" ; Times: 3
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 2
+	Query: "petenia splendida" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 5
+	Query: "LSUMZ 6202" ; Times: 4
+	Query: "Alectis ciliaris mappable:1" ; Times: 2
+	Query: "specificepithet:oglinum genus:Opisthonema" ; Times: 1
+	Query: "Serranus atrobranchus mappable:1" ; Times: 2
+	Query: "LSUMZ 4819" ; Times: 1
+	Query: "Scorpaena brasiliensis mappable:1" ; Times: 1
+	Query: "Opistognathus aurifrons mappable:1" ; Times: 2
+	Query: "hawaiensis" ; Times: 1
+	Query: "Eugerres plumieri mappable:1" ; Times: 1
+	Query: "Micropogonias furnieri mappable:1" ; Times: 5
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "genus:Gymnarchus hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1281 download events in this period)
+Total number of records downloaded: 29
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-14 ; Times: 3
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-29 ; Times: 5
+	Date: 2019-03-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "ATRACTOSTEUS TROPICUS" ; Times: 1
+	Query: "locality:cave stateprovince:&#34;Yucatan&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "mugil liza" ; Times: 1
+	Query: "atractosteus tropicus" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "petenia splendida" ; Times: 1
+	Query: "sicydium plumieri honduras" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "Scarus rubroviolaceus" ; Times: 1
+
+
+End of report.
