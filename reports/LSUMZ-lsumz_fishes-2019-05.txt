@@ -1,0 +1,166 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 272
+Number of records retrieved in searches: 555
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 13
+	Country: Honduras ; Times: 1
+	Country: Portugal ; Times: 6
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 216
+	Country: United Kingdom ; Times: 4
+	Country: New Zealand ; Times: 30
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 77
+	Date: 2019-05-24 ; Times: 18
+	Date: 2019-05-27 ; Times: 14
+	Date: 2019-05-26 ; Times: 46
+	Date: 2019-05-23 ; Times: 32
+	Date: 2019-05-22 ; Times: 17
+	Date: 2019-05-29 ; Times: 13
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-04 ; Times: 1
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-06 ; Times: 30
+	Date: 2019-05-13 ; Times: 4
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-15 ; Times: 10
+	Date: 2019-05-16 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "Raja texana" ; Times: 1
+	Query: "Mustelus norrisi" ; Times: 1
+	Query: "Chromis enchrysura mappable:1" ; Times: 3
+	Query: "Nicholsina usta usta mappable:1" ; Times: 3
+	Query: "Rajella purpuriventralis" ; Times: 1
+	Query: "Megalops atlanticus mappable:1" ; Times: 1
+	Query: "Tylosurus acus acus mappable:1" ; Times: 20
+	Query: "Urotrygon cimar" ; Times: 1
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "Bairdiella ronchus mappable:1" ; Times: 2
+	Query: "Strongylura timucu mappable:1" ; Times: 1
+	Query: "Scorpaena brasiliensis mappable:1" ; Times: 5
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "Torpedo sinuspersici" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 6
+	Query: "Chascanopsetta" ; Times: 1
+	Query: "catalognumber:4642 institutioncode:LSUMZ" ; Times: 1
+	Query: "Gymnura poecilura" ; Times: 1
+	Query: "Aluterus scriptus mappable:1" ; Times: 10
+	Query: "Platyrhina sinensis" ; Times: 1
+	Query: "catalognumber:10670 institutioncode:LSUMZ" ; Times: 1
+	Query: "Chloroscombrus chrysurus mappable:1" ; Times: 2
+	Query: "scarus rubroviolaceus" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "catalognumber:17622 institutioncode:LSUMZ" ; Times: 1
+	Query: "Urolophus aurantiacus" ; Times: 1
+	Query: "Trichiurus lepturus mappable:1" ; Times: 1
+	Query: "Pomadasys crocro mappable:1" ; Times: 2
+	Query: "Echeneis naucrates mappable:1" ; Times: 1
+	Query: "Lutjanus jocu mappable:1" ; Times: 11
+	Query: "Rhinobatos punctifer" ; Times: 1
+	Query: "Diapterus auratus mappable:1" ; Times: 1
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 16
+	Query: "Opistognathus aurifrons mappable:1" ; Times: 4
+	Query: "Priacanthus arenatus mappable:1" ; Times: 3
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "Antennarius striatus mappable:1" ; Times: 1
+	Query: "Chiloscyllium arabicum" ; Times: 1
+	Query: "Centropomus undecimalis mappable:1" ; Times: 1
+	Query: "Joturus pichardi mappable:1" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 16
+	Query: "Selene vomer mappable:1" ; Times: 2
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 1
+	Query: "Rhizoprionodon terraenovae" ; Times: 1
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 1
+	Query: "catalognumber:16673 institutioncode:LSUMZ" ; Times: 2
+	Query: "Eridacnis radcliffei" ; Times: 1
+	Query: "Lutjanus synagris mappable:1" ; Times: 9
+	Query: "Selene setapinnis mappable:1" ; Times: 2
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 19
+	Query: "Taeniura lymma" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Caranx latus mappable:1" ; Times: 2
+	Query: "Diplectrum formosum mappable:1" ; Times: 2
+	Query: "Lobotes surinamensis mappable:1" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 1
+	Query: "Syacium gunteri mappable:1" ; Times: 1
+	Query: "Harengula jaguana mappable:1" ; Times: 1
+	Query: "Crossorhombus kobensis" ; Times: 5
+	Query: "ctenogobius sagittula" ; Times: 4
+	Query: "Raja eglanteria" ; Times: 1
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 1
+	Query: "ctenogobius hastissue:1" ; Times: 1
+	Query: "micropogonias furnieri" ; Times: 1
+	Query: "Zeus faber mappable:1" ; Times: 1
+	Query: "Narke japonica" ; Times: 1
+	Query: "Serranus atrobranchus mappable:1" ; Times: 1
+	Query: "Lutjanus griseus mappable:1" ; Times: 10
+	Query: "Aetomylaeus nichofii" ; Times: 1
+	Query: "Umbrina coroides mappable:1" ; Times: 2
+	Query: "Galeus sauteri" ; Times: 1
+	Query: "Apristurus macrorhynchus" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 1
+	Query: "Diapterus rhombeus mappable:1" ; Times: 1
+	Query: "Ogcocephalus nasutus mappable:1" ; Times: 1
+	Query: "Torpedo panthera" ; Times: 1
+	Query: "Mugil liza mappable:1" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 2
+	Query: "Centropomus ensiferus mappable:1" ; Times: 1
+	Query: "lsumz 17485" ; Times: 1
+	Query: "Brotula barbata mappable:1" ; Times: 1
+	Query: "Gerres cinereus mappable:1" ; Times: 1
+	Query: "Centropyge argi mappable:1" ; Times: 2
+	Query: "Archosargus rhomboidalis mappable:1" ; Times: 2
+	Query: "Sphyrna tiburo" ; Times: 1
+	Query: "Heterodontus quoyi" ; Times: 1
+	Query: "Caranx crysos mappable:1" ; Times: 2
+	Query: "Etmopterus pusillus" ; Times: 1
+	Query: "Sorubim lima Peru" ; Times: 4
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 17
+	Query: "&#34;Alburnus alburnus&#34;" ; Times: 1
+	Query: "Squaliolus aliae" ; Times: 1
+	Query: "Centropomus pectinatus mappable:1" ; Times: 1
+	Query: "Oligoplites saurus mappable:1" ; Times: 2
+	Query: "ctenogobius institutioncode:LSUMZ hastissue:1" ; Times: 1
+	Query: "Trachinotus falcatus mappable:1" ; Times: 2
+	Query: "Alectis ciliaris mappable:1" ; Times: 2
+	Query: "Albula vulpes mappable:1" ; Times: 1
+	Query: "Sparisoma atomarium mappable:1" ; Times: 3
+	Query: "Eugerres plumieri mappable:1" ; Times: 1
+	Query: "Micropogonias furnieri mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 940 download events in this period)
+Total number of records downloaded: 3
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-07 ; Times: 2
+	Date: 2019-05-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "scarus ghobban" ; Times: 1
+	Query: "squalus acanthias year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "scarus rubroviolaceus" ; Times: 1
+
+
+End of report.
