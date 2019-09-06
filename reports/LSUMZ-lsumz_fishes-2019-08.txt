@@ -1,0 +1,116 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 343
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United Kingdom ; Times: 42
+	Country: France ; Times: 20
+	Country: United States ; Times: 9
+	Country: Colombia ; Times: 3
+	Country: Belgium ; Times: 3
+	Country: Venezuela ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-20 ; Times: 3
+	Date: 2019-08-06 ; Times: 6
+	Date: 2019-08-07 ; Times: 8
+	Date: 2019-08-08 ; Times: 11
+	Date: 2019-08-25 ; Times: 3
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-19 ; Times: 4
+	Date: 2019-08-05 ; Times: 45
+
+List of queries that retrieved data from the resource: 
+	Query: "Loricariichthys maculatus" ; Times: 1
+	Query: "HIMANTURA schmardae" ; Times: 1
+	Query: "Eigenmannia virescens" ; Times: 1
+	Query: "Hemiodontichthys acipenserinus" ; Times: 1
+	Query: "Bryconamericus scleroparius" ; Times: 1
+	Query: "Gephyrocharax atracaudatus" ; Times: 1
+	Query: "Gephyrocharax intermedius" ; Times: 1
+	Query: "genus:Herotilapia specificepithet:multispinosa" ; Times: 1
+	Query: "hemigrammus hastissue:1" ; Times: 1
+	Query: "Pimelodus blochii" ; Times: 2
+	Query: "Rhamdia quelen" ; Times: 1
+	Query: "Cryptoheros cutteri" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "Platydoras costatus" ; Times: 1
+	Query: "Sorubim lima" ; Times: 1
+	Query: "Astyanax bimaculatus" ; Times: 1
+	Query: "Brachyhypopomus occidentalis" ; Times: 1
+	Query: "Hemisorubim platyrhynchos" ; Times: 1
+	Query: "Pangasius pangasius" ; Times: 1
+	Query: "Ictalurus furcatus" ; Times: 1
+	Query: "LSUMZ 5574" ; Times: 2
+	Query: "Tylosurus acus acus mappable:1" ; Times: 2
+	Query: "Vieja melanura" ; Times: 1
+	Query: "Loricaria cataphracta" ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 2
+	Query: "Thoracocharax stellatus" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 2
+	Query: "catalognumber:17725 institutioncode:LSUMZ" ; Times: 2
+	Query: "PERCINA NASUTA" ; Times: 1
+	Query: "Crenicichla lepidota" ; Times: 1
+	Query: "LSUMZ 17725" ; Times: 1
+	Query: "institutioncode:LSUMZ" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 7
+	Query: "Pimelodus altissimus" ; Times: 1
+	Query: "Petenia splendida" ; Times: 1
+	Query: "Creagrutus pila" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 2
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 1
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 2
+	Query: "Bryconamericus emperador" ; Times: 1
+	Query: "Limatulichthys griseus" ; Times: 1
+	Query: "Rineloricaria morrowi" ; Times: 1
+	Query: "LSUMZ 6456" ; Times: 2
+	Query: "Serrapinnus piaba" ; Times: 1
+	Query: "genus:Trachinocephalus specificepithet:myops" ; Times: 1
+	Query: "Oxydoras niger" ; Times: 1
+	Query: "Thorichthys aureus" ; Times: 1
+	Query: "Leiarius marmoratus" ; Times: 1
+	Query: "Creagrutus affinis" ; Times: 1
+	Query: "Hemibrycon helleri" ; Times: 1
+	Query: "Parauchenipterus galeatus" ; Times: 1
+	Query: "Diodon holocanthus mappable:1" ; Times: 2
+	Query: "Tetragonopterus chalceus" ; Times: 1
+	Query: "Trachelyopterus galeatus" ; Times: 1
+	Query: "Calophysus macropterus" ; Times: 1
+	Query: "lSUMZ 568" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 1
+	Query: "hyphessobrycon hastissue:1" ; Times: 2
+	Query: "Mulloidichthys martinicus" ; Times: 4
+	Query: "Mustelus norrisi" ; Times: 2
+	Query: "lSUMZ 579" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1034 download events in this period)
+Total number of records downloaded: 211
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: France ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-22 ; Times: 2
+	Date: 2019-08-12 ; Times: 1
+	Date: 2019-08-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mulloidichthys martinicus" ; Times: 2
+	Query: "stateprovince:&#34;morona santiago&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "stateprovince:&#34;esmeraldas&#34; country:&#34;ecuador&#34;" ; Times: 1
+
+
+End of report.
