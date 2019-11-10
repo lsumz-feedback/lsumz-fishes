@@ -1,0 +1,103 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 348
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Honduras ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 15
+	Country: United States ; Times: 26
+	Country: Rwanda ; Times: 5
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-21 ; Times: 4
+	Date: 2019-09-16 ; Times: 1
+	Date: 2019-09-10 ; Times: 13
+	Date: 2019-09-11 ; Times: 1
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-26 ; Times: 3
+	Date: 2019-09-28 ; Times: 2
+	Date: 2019-09-18 ; Times: 1
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-03 ; Times: 6
+	Date: 2019-09-27 ; Times: 8
+	Date: 2019-09-25 ; Times: 1
+	Date: 2019-09-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:carolinus genus:prionotus hastissue:1" ; Times: 1
+	Query: "Bathyanthias cubensis mappable:1" ; Times: 1
+	Query: "awaous banana" ; Times: 2
+	Query: "institutioncode:LSUMZ" ; Times: 2
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "LSUMZ 3117" ; Times: 1
+	Query: "specificepithet:LUCASANUM genus:THALASSOMA continent:AMERICA" ; Times: 1
+	Query: "Cyphocharax magdalenae" ; Times: 1
+	Query: "specificepithet:malabaricus genus:hoplias institutioncode:LSUMZ" ; Times: 1
+	Query: "genus:peristedion hastissue:1" ; Times: 2
+	Query: "genus:lepidotrigla hastissue:1" ; Times: 2
+	Query: "catalognumber:14759 institutioncode:LSUMZ" ; Times: 2
+	Query: "Nealotus tripes mappable:1" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 5
+	Query: "catalognumber:12594 institutioncode:LSUMZ" ; Times: 1
+	Query: "Amblyopsis hoosieri" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 5
+	Query: "Synagrops spinosus mappable:1" ; Times: 1
+	Query: "genus:gargariscus hastissue:1" ; Times: 4
+	Query: "catalognumber:9982 institutioncode:LSUMZ" ; Times: 1
+	Query: "Hypostomus niceforoi" ; Times: 1
+	Query: "sicydium plumieri honduras" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 1
+	Query: "Astroscopus y-graecum mappable:1" ; Times: 1
+	Query: "hyphessobrycon hastissue:1" ; Times: 1
+	Query: "Pterois volitans mappable:1" ; Times: 1
+	Query: "catalognumber:9600 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:5481" ; Times: 1
+	Query: "catalognumber:3326 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:9806 institutioncode:LSUMZ" ; Times: 1
+	Query: "lsumz 8414" ; Times: 1
+	Query: "genus:pterygotrigla hastissue:1" ; Times: 1
+	Query: "sicydium plumieri" ; Times: 2
+	Query: "Poecilopsetta beanii mappable:1" ; Times: 1
+	Query: "atherinella milleri" ; Times: 2
+	Query: "LSUMZ 4423" ; Times: 1
+	Query: "Scarus psittacus" ; Times: 1
+	Query: "Prionotus longispinosus mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1073 download events in this period)
+Total number of records downloaded: 15
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Honduras ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-03 ; Times: 1
+	Date: 2019-09-02 ; Times: 1
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-24 ; Times: 1
+	Date: 2019-09-26 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:LUCASANUM genus:THALASSOMA continent:AMERICA" ; Times: 1
+	Query: "sicydium plumieri" ; Times: 1
+	Query: "sicydium plumieri honduras" ; Times: 1
+	Query: "genus:lepidotrigla hastissue:1" ; Times: 1
+	Query: "continent:Africa (Cypriniformes)" ; Times: 1
+	Query: "carcharhinus leucas" ; Times: 2
+
+
+End of report.
