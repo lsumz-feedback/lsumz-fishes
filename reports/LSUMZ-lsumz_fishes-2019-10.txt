@@ -1,0 +1,187 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 200
+Number of records retrieved in searches: 1607
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 101
+	Country: Portugal ; Times: 1
+	Country: United Kingdom ; Times: 10
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: New Zealand ; Times: 70
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 41
+	Date: 2019-10-08 ; Times: 1
+	Date: 2019-10-21 ; Times: 30
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 3
+	Date: 2019-10-25 ; Times: 3
+	Date: 2019-10-24 ; Times: 32
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-02 ; Times: 4
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-07 ; Times: 14
+	Date: 2019-10-22 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-28 ; Times: 3
+	Date: 2019-10-12 ; Times: 2
+	Date: 2019-10-16 ; Times: 13
+	Date: 2019-10-10 ; Times: 6
+	Date: 2019-10-30 ; Times: 14
+	Date: 2019-10-17 ; Times: 3
+	Date: 2019-10-14 ; Times: 9
+	Date: 2019-10-15 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "Raja texana" ; Times: 2
+	Query: "Mustelus norrisi" ; Times: 2
+	Query: "LSUMZ" ; Times: 1
+	Query: "Aetobatus flagellum" ; Times: 2
+	Query: "Paramonacanthus japonicus mappable:1" ; Times: 4
+	Query: "Thamnaconus septentrionalis mappable:1" ; Times: 2
+	Query: "carcharhinus leucas" ; Times: 1
+	Query: "Parupeneus ciliatus mappable:1" ; Times: 4
+	Query: "Cantherhines pardalis mappable:1" ; Times: 2
+	Query: "Rajella purpuriventralis" ; Times: 1
+	Query: "Cantherhines macrocerus" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 1
+	Query: "Urotrygon cimar" ; Times: 1
+	Query: "catalognumber:373 institutioncode:LSUMZ" ; Times: 2
+	Query: "Rhizoprionodon acutus" ; Times: 2
+	Query: "Pervagor spilosoma mappable:1" ; Times: 2
+	Query: "LSUMZ 13227" ; Times: 1
+	Query: "Torpedo sinuspersici" ; Times: 1
+	Query: "Hydrolagus mirabilis" ; Times: 1
+	Query: "toxotes" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 5
+	Query: "percina nasuta" ; Times: 2
+	Query: "Gymnura poecilura" ; Times: 2
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "Aluterus scriptus mappable:1" ; Times: 3
+	Query: "catalognumber:380 institutioncode:LSUMZ" ; Times: 4
+	Query: "Gymnocephalus cernua" ; Times: 1
+	Query: "Platyrhina sinensis" ; Times: 2
+	Query: "catalognumber:404 institutioncode:LSUMZ" ; Times: 2
+	Query: "10109" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "gbifdatasetid:8a1073ce-54a4-4712-89a6-e14d82836d9e" ; Times: 2
+	Query: "catalognumber:4792 institutioncode:LSUMZ" ; Times: 2
+	Query: "LSUMZ 10455" ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 2
+	Query: "Pastinachus sephen" ; Times: 2
+	Query: "institutioncode:LSUMZ" ; Times: 4
+	Query: "LSUMZ 1379" ; Times: 1
+	Query: "Urolophus aurantiacus" ; Times: 2
+	Query: "Etheostoma parvipinne" ; Times: 1
+	Query: "Percina macrolepida" ; Times: 1
+	Query: "institutioncode:lsumz" ; Times: 3
+	Query: "country:&#34;Ecuador&#34; institutioncode:LSUMZ" ; Times: 2
+	Query: "Parupeneus barberinus mappable:1" ; Times: 4
+	Query: "Rhinobatos punctifer" ; Times: 2
+	Query: "lsumz 4458" ; Times: 2
+	Query: "Amanses scopas mappable:1" ; Times: 2
+	Query: "Parupeneus multifasciatus mappable:1" ; Times: 1
+	Query: "Oxymonacanthus longirostris mappable:1" ; Times: 2
+	Query: "Sphyrna lewini" ; Times: 2
+	Query: "vntype:specimen institutioncode:LSUMZ" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 2
+	Query: "Chiloscyllium arabicum" ; Times: 1
+	Query: "Eridacnis barbouri" ; Times: 1
+	Query: "Paramonacanthus oblongus mappable:1" ; Times: 2
+	Query: "Rhizoprionodon terraenovae" ; Times: 2
+	Query: "LSUMZ 13378" ; Times: 1
+	Query: "LSUMZ 13379" ; Times: 1
+	Query: "LSUMZ 13377" ; Times: 2
+	Query: "Chaetodermis penicilligerus mappable:1" ; Times: 2
+	Query: "Eridacnis radcliffei" ; Times: 1
+	Query: "Taeniura lymma" ; Times: 2
+	Query: "Aluterus schoepfii" ; Times: 1
+	Query: "Aluterus monoceros mappable:1" ; Times: 3
+	Query: "Cantherhines sandwichiensis mappable:1" ; Times: 2
+	Query: "Oreochromis sp" ; Times: 1
+	Query: "Squatina dumeril" ; Times: 2
+	Query: "LSUMZ 14270" ; Times: 1
+	Query: "9404" ; Times: 1
+	Query: "Narcine brasiliensis" ; Times: 2
+	Query: "Ginglymostoma cirratum" ; Times: 2
+	Query: "Aetomylaeus nichofii" ; Times: 2
+	Query: "Oreochromis niloticus mappable:1" ; Times: 1
+	Query: "Stephanolepis setifer" ; Times: 1
+	Query: "Raja eglanteria" ; Times: 2
+	Query: "catalognumber:5857 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:4737 institutioncode:LSUMZ" ; Times: 2
+	Query: "Narke japonica" ; Times: 2
+	Query: "specificepithet:robustus institutioncode:LSUMZ" ; Times: 1
+	Query: "6985" ; Times: 3
+	Query: "menidia audens" ; Times: 2
+	Query: "10495" ; Times: 2
+	Query: "10492" ; Times: 2
+	Query: "Galeus sauteri" ; Times: 2
+	Query: "Sander canadensis" ; Times: 1
+	Query: "Torpedo panthera" ; Times: 1
+	Query: "Apristurus macrorhynchus" ; Times: 1
+	Query: "Alburnus alburnus" ; Times: 1
+	Query: "catalognumber:14708 institutioncode:LSUMZ" ; Times: 1
+	Query: "Acreichthys tomentosus mappable:1" ; Times: 2
+	Query: "specificepithet:spatula genus:Atractosteus stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "12619" ; Times: 2
+	Query: "LSUMZ 4458" ; Times: 1
+	Query: "Gymnura micrura" ; Times: 2
+	Query: "Hydrolagus alberti" ; Times: 1
+	Query: "class:Actinopterygii institutioncode:LSUMZ" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "Anacanthus barbatus mappable:1" ; Times: 2
+	Query: "Etheostoma gracile" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Heterodontus quoyi" ; Times: 1
+	Query: "catalognumber:11839 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:12282 institutioncode:LSUMZ" ; Times: 1
+	Query: "Etmopterus pusillus" ; Times: 2
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Squaliolus aliae" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "Rhinoptera bonasus" ; Times: 2
+	Query: "Squalus acanthias" ; Times: 2
+	Query: "Pseudorhombus levisquamis" ; Times: 1
+	Query: "Himantura uarnak" ; Times: 2
+	Query: "catalognumber:1827 institutioncode:LSUMZ" ; Times: 2
+	Query: "Carcharhinus leucas" ; Times: 2
+	Query: "Aluterus monoceros" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 1308 download events in this period)
+Total number of records downloaded: 48
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-03 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-04 ; Times: 1
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Gobius" ; Times: 1
+	Query: "percina nasuta" ; Times: 1
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "vntype:specimen (gonorynchiformes)" ; Times: 1
+	Query: "Sardinops sagax" ; Times: 1
+
+
+End of report.
