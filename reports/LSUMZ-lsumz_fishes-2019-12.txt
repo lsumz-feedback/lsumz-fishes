@@ -1,0 +1,277 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1318
+Number of records retrieved in searches: 13203
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 2
+	Country: Honduras ; Times: 5
+	Country: Singapore ; Times: 2
+	Country: France ; Times: 1257
+	Country: United States ; Times: 43
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 3
+	Date: 2019-12-27 ; Times: 112
+	Date: 2019-12-26 ; Times: 132
+	Date: 2019-12-21 ; Times: 394
+	Date: 2019-12-20 ; Times: 157
+	Date: 2019-12-23 ; Times: 9
+	Date: 2019-12-22 ; Times: 31
+	Date: 2019-12-28 ; Times: 23
+	Date: 2019-12-18 ; Times: 47
+	Date: 2019-12-19 ; Times: 311
+	Date: 2019-12-10 ; Times: 5
+	Date: 2019-12-11 ; Times: 12
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 4
+	Date: 2019-12-17 ; Times: 9
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-31 ; Times: 35
+	Date: 2019-12-09 ; Times: 6
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-06 ; Times: 17
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Sardinella aurita mappable:1" ; Times: 2
+	Query: "Bob Jones" ; Times: 1
+	Query: "catalognumber:2137 institutioncode:LSUMZ" ; Times: 1
+	Query: "Sphoeroides spengleri mappable:1" ; Times: 2
+	Query: "Benthodesmus tenuis mappable:1" ; Times: 2
+	Query: "Epinephelus itajara mappable:1" ; Times: 5
+	Query: "Scomberomorus cavalla mappable:1" ; Times: 2
+	Query: "Chromis enchrysura mappable:1" ; Times: 5
+	Query: "Caranx hippos mappable:1" ; Times: 3
+	Query: "LSUMZ 6246" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 2
+	Query: "genus:Amphilophus institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:7562 institutioncode:LSUMZ" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "cryptoheros cutteri Honduras" ; Times: 2
+	Query: "Mullus auratus mappable:1" ; Times: 38
+	Query: "Megalops atlanticus mappable:1" ; Times: 11
+	Query: "Tylosurus acus acus mappable:1" ; Times: 13
+	Query: "Dibranchus atlanticus mappable:1" ; Times: 8
+	Query: "Scartella cristata mappable:1" ; Times: 16
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "lori" ; Times: 1
+	Query: "Bairdiella ronchus mappable:1" ; Times: 6
+	Query: "centropyge argi" ; Times: 1
+	Query: "Strongylura timucu mappable:1" ; Times: 18
+	Query: "Scorpaena brasiliensis mappable:1" ; Times: 5
+	Query: "Pampus argenteus" ; Times: 1
+	Query: "Mulloidichthys martinicus mappable:1" ; Times: 39
+	Query: "Hyporhamphus unifasciatus" ; Times: 1
+	Query: "Bathygobius soporator mappable:1" ; Times: 9
+	Query: "Parablennius marmoreus mappable:1" ; Times: 3
+	Query: "Eleotris perniger mappable:1" ; Times: 1
+	Query: "Stephanolepis setifer mappable:1" ; Times: 8
+	Query: "Pterois volitans mappable:1" ; Times: 5
+	Query: "astyanax aeneus Honduras" ; Times: 1
+	Query: "genus:Amphilophus" ; Times: 1
+	Query: "Rhizoprionodon terraenovae mappable:1" ; Times: 12
+	Query: "Aluterus scriptus mappable:1" ; Times: 6
+	Query: "catalognumber:7846 institutioncode:LSUMZ" ; Times: 1
+	Query: "Zalieutes elater" ; Times: 1
+	Query: "Malacocephalus laevis mappable:1" ; Times: 4
+	Query: "Cryptotomus roseus mappable:1" ; Times: 2
+	Query: "Fistularia tabacaria mappable:1" ; Times: 12
+	Query: "Sphyraena barracuda mappable:1" ; Times: 2
+	Query: "Chloroscombrus chrysurus mappable:1" ; Times: 3
+	Query: "Lophiodes monodi mappable:1" ; Times: 11
+	Query: "Harengula clupeola mappable:1" ; Times: 18
+	Query: "27933" ; Times: 1
+	Query: "Aldrovandia affinis mappable:1" ; Times: 4
+	Query: "2013-1064" ; Times: 1
+	Query: "institutioncode:LSUMZ" ; Times: 2
+	Query: "elops affinis" ; Times: 3
+	Query: "Caranx crysos mappable:1" ; Times: 3
+	Query: "Cyprinodon variegatus mappable:1" ; Times: 5
+	Query: "Elops saurus mappable:1" ; Times: 14
+	Query: "catalognumber:18628 institutioncode:LSUMZ" ; Times: 2
+	Query: "Lima lima mappable:1" ; Times: 9
+	Query: "Trichiurus lepturus mappable:1" ; Times: 2
+	Query: "Achirus lineatus mappable:1" ; Times: 10
+	Query: "Aldrovandia gracilis mappable:1" ; Times: 4
+	Query: "Selene setapinnis mappable:1" ; Times: 3
+	Query: "Pomadasys crocro mappable:1" ; Times: 11
+	Query: "Echeneis naucrates mappable:1" ; Times: 2
+	Query: "Lutjanus jocu mappable:1" ; Times: 6
+	Query: "Ophioblennius atlanticus mappable:1" ; Times: 17
+	Query: "Halichoeres bivittatus mappable:1" ; Times: 9
+	Query: "Trachinocephalus myops mappable:1" ; Times: 2
+	Query: "Mugil curema mappable:1" ; Times: 6
+	Query: "Halieutichthys aculeatus mappable:1" ; Times: 8
+	Query: "Gobiesox punctulatus mappable:1" ; Times: 13
+	Query: "Carcharhinus leucas mappable:1" ; Times: 12
+	Query: "Citharichthys spilopterus mappable:1" ; Times: 7
+	Query: "sicydium plumieri honduras" ; Times: 2
+	Query: "Diapterus auratus mappable:1" ; Times: 15
+	Query: "Gnatholepis thompsoni mappable:1" ; Times: 10
+	Query: "Opistognathus aurifrons mappable:1" ; Times: 5
+	Query: "Trachinotus carolinus mappable:1" ; Times: 3
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "catalognumber:14612 institutioncode:LSUMZ" ; Times: 2
+	Query: "Opisthonema oglinum mappable:1" ; Times: 17
+	Query: "Remora osteochir mappable:1" ; Times: 2
+	Query: "Remora remora mappable:1" ; Times: 2
+	Query: "Eleotris amblyopsis mappable:1" ; Times: 16
+	Query: "Erotelis smaragdus mappable:1" ; Times: 15
+	Query: "Anchoa parva mappable:1" ; Times: 1
+	Query: "Equetus lanceolatus mappable:1" ; Times: 5
+	Query: "Antennarius striatus mappable:1" ; Times: 12
+	Query: "Symphurus plagiusa mappable:1" ; Times: 8
+	Query: "Joturus pichardi mappable:1" ; Times: 11
+	Query: "Anarchias similis mappable:1" ; Times: 6
+	Query: "Diodon holocanthus mappable:1" ; Times: 11
+	Query: "Selene vomer mappable:1" ; Times: 3
+	Query: "Chaetodipterus faber mappable:1" ; Times: 10
+	Query: "LSU 4337" ; Times: 1
+	Query: "Thalassoma bifasciatum mappable:1" ; Times: 9
+	Query: "Sphyraena guachancho mappable:1" ; Times: 2
+	Query: "Atherinomorus stipes mappable:1" ; Times: 17
+	Query: "catalognumber:578 institutioncode:LSUMZ" ; Times: 1
+	Query: "Lagodon rhomboides mappable:1" ; Times: 3
+	Query: "Scomberomorus regalis mappable:1" ; Times: 2
+	Query: "Cyclopsetta fimbriata mappable:1" ; Times: 6
+	Query: "Nealotus tripes mappable:1" ; Times: 7
+	Query: "Chriodorus atherinoides mappable:1" ; Times: 11
+	Query: "Lutjanus synagris mappable:1" ; Times: 6
+	Query: "narcinidae" ; Times: 1
+	Query: "catalognumber:14606 institutioncode:LSUMZ" ; Times: 2
+	Query: "11270." ; Times: 1
+	Query: "Tylosurus crocodilus crocodilus mappable:1" ; Times: 13
+	Query: "catalognumber:382 institutioncode:LSUMZ" ; Times: 1
+	Query: "Centropomus parallelus mappable:1" ; Times: 17
+	Query: "Microphis brachyurus brachyurus mappable:1" ; Times: 5
+	Query: "lsumz 6085" ; Times: 1
+	Query: "Caranx latus mappable:1" ; Times: 3
+	Query: "Anchoviella perfasciata mappable:1" ; Times: 12
+	Query: "Gobionellus oceanicus mappable:1" ; Times: 11
+	Query: "Evorthodus lyricus mappable:1" ; Times: 11
+	Query: "13208" ; Times: 1
+	Query: "Monacanthus ciliatus mappable:1" ; Times: 2
+	Query: "Lobotes surinamensis mappable:1" ; Times: 2
+	Query: "Sphoeroides testudineus mappable:1" ; Times: 5
+	Query: "Priacanthus arenatus mappable:1" ; Times: 5
+	Query: "Diodon holocanthus" ; Times: 3
+	Query: "Syacium gunteri mappable:1" ; Times: 6
+	Query: "Leuresthes" ; Times: 1
+	Query: "Canthigaster rostrata mappable:1" ; Times: 3
+	Query: "Decapterus punctatus mappable:1" ; Times: 3
+	Query: "Haemulon aurolineatum mappable:1" ; Times: 9
+	Query: "Lachnolaimus maximus mappable:1" ; Times: 9
+	Query: "Balistes capriscus mappable:1" ; Times: 13
+	Query: "Sphoeroides nephelus mappable:1" ; Times: 5
+	Query: "Neobythites marginatus mappable:1" ; Times: 8
+	Query: "Neoscopelus macrolepidotus mappable:1" ; Times: 5
+	Query: "Peprilus paru mappable:1" ; Times: 2
+	Query: "Eucinostomus gula mappable:1" ; Times: 10
+	Query: "Scorpaena plumieri mappable:1" ; Times: 5
+	Query: "Xyrichtys novacula mappable:1" ; Times: 3
+	Query: "Centropomus undecimalis mappable:1" ; Times: 16
+	Query: "Strongylura marina mappable:1" ; Times: 10
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "Lagocephalus laevigatus mappable:1" ; Times: 2
+	Query: "Rivulus Panama" ; Times: 1
+	Query: "Labrisomus nuchipinnis mappable:1" ; Times: 9
+	Query: "Serranus atrobranchus mappable:1" ; Times: 4
+	Query: "13110" ; Times: 1
+	Query: "Lutjanus griseus mappable:1" ; Times: 6
+	Query: "Eucinostomus argenteus mappable:1" ; Times: 8
+	Query: "LSUMZ 12704" ; Times: 1
+	Query: "Bembrops gobioides mappable:1" ; Times: 6
+	Query: "Eleotris pisonis mappable:1" ; Times: 14
+	Query: "Uropterygius macularius mappable:1" ; Times: 6
+	Query: "Umbrina coroides mappable:1" ; Times: 5
+	Query: "Polymixia lowei mappable:1" ; Times: 6
+	Query: "Micropogonias undulatus mappable:1" ; Times: 5
+	Query: "Anchovia clupeoides mappable:1" ; Times: 1
+	Query: "Hyporhamphus unifasciatus mappable:1" ; Times: 11
+	Query: "Diapterus rhombeus mappable:1" ; Times: 15
+	Query: "Fistularia commersonii" ; Times: 1
+	Query: "Ogcocephalus nasutus mappable:1" ; Times: 8
+	Query: "Lophogobius cyprinoides mappable:1" ; Times: 11
+	Query: "catalognumber:10197 institutioncode:LSUMZ" ; Times: 2
+	Query: "Harengula jaguana mappable:1" ; Times: 16
+	Query: "Mugil liza mappable:1" ; Times: 9
+	Query: "Rhomboplites aurorubens mappable:1" ; Times: 8
+	Query: "Centropomus ensiferus mappable:1" ; Times: 17
+	Query: "Hippocampus erectus mappable:1" ; Times: 2
+	Query: "Gerres cinereus mappable:1" ; Times: 14
+	Query: "Colomesus psittacus mappable:1" ; Times: 5
+	Query: "Anchoa hepsetus mappable:1" ; Times: 11
+	Query: "Brotula barbata mappable:1" ; Times: 8
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "Albula vulpes mappable:1" ; Times: 18
+	Query: "Dormitator maculatus mappable:1" ; Times: 13
+	Query: "Dactylopterus volitans mappable:1" ; Times: 12
+	Query: "Centropyge argi mappable:1" ; Times: 5
+	Query: "Caranx hippos" ; Times: 1
+	Query: "Archosargus rhomboidalis mappable:1" ; Times: 4
+	Query: "Aluterus monoceros mappable:1" ; Times: 6
+	Query: "Mugil cephalus mappable:1" ; Times: 1
+	Query: "Etropus crossotus mappable:1" ; Times: 6
+	Query: "catalognumber:11839 institutioncode:LSUMZ" ; Times: 5
+	Query: "14865" ; Times: 1
+	Query: "Stegastes leucostictus mappable:1" ; Times: 5
+	Query: "Lepophidium brevibarbe mappable:1" ; Times: 8
+	Query: "Paralichthys dentatus mappable:1" ; Times: 9
+	Query: "Chaetodon ocellatus mappable:1" ; Times: 11
+	Query: "Lutjanus apodus mappable:1" ; Times: 6
+	Query: "Diplectrum formosum mappable:1" ; Times: 4
+	Query: "Centropomus pectinatus mappable:1" ; Times: 17
+	Query: "Synodus foetens mappable:1" ; Times: 2
+	Query: "Oligoplites saurus mappable:1" ; Times: 3
+	Query: "Eucinostomus melanopterus mappable:1" ; Times: 14
+	Query: "Ctenogobius fasciatus mappable:1" ; Times: 12
+	Query: "Trachinotus falcatus mappable:1" ; Times: 3
+	Query: "Alectis ciliaris mappable:1" ; Times: 3
+	Query: "Anguilla rostrata mappable:1" ; Times: 3
+	Query: "Melanocetus murrayi  mappable:1" ; Times: 7
+	Query: "Diplectrum bivittatum mappable:1" ; Times: 4
+	Query: "LSUMZ 4337" ; Times: 1
+	Query: "Diaphus splendidus mappable:1" ; Times: 5
+	Query: "Sparisoma atomarium mappable:1" ; Times: 5
+	Query: "Gobiomorus dormitor mappable:1" ; Times: 14
+	Query: "Eugerres plumieri mappable:1" ; Times: 15
+	Query: "skunk" ; Times: 1
+	Query: "Micropogonias furnieri mappable:1" ; Times: 6
+	Query: "Lutjanus griseus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 596 download events in this period)
+Total number of records downloaded: 71
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Honduras ; Times: 5
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cryptoheros cutteri Honduras" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "sicydium plumieri honduras" ; Times: 4
+
+
+End of report.
