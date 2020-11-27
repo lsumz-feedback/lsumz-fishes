@@ -1,0 +1,152 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 102
+Number of records retrieved in searches: 954
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 64
+	Country: Netherlands ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Cuba ; Times: 3
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 12
+	Country: Taiwan ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 3
+	Date: 2020-03-05 ; Times: 7
+	Date: 2020-03-31 ; Times: 14
+	Date: 2020-03-19 ; Times: 2
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-26 ; Times: 2
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-02 ; Times: 9
+	Date: 2020-03-23 ; Times: 15
+	Date: 2020-03-03 ; Times: 8
+	Date: 2020-03-18 ; Times: 7
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-16 ; Times: 2
+	Date: 2020-03-09 ; Times: 4
+	Date: 2020-03-04 ; Times: 2
+	Date: 2020-03-06 ; Times: 9
+	Date: 2020-03-10 ; Times: 11
+	Date: 2020-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "LSUMZ 8401" ; Times: 1
+	Query: "catalognumber:2514" ; Times: 1
+	Query: "Hypoatherina temminckii mappable:1" ; Times: 2
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 8
+	Query: "LSUMZ" ; Times: 3
+	Query: "LSUMZ 15392" ; Times: 1
+	Query: "Atherinomorus duodecimalis mappable:1" ; Times: 3
+	Query: "LSUmz 741" ; Times: 1
+	Query: "lsumz 15392" ; Times: 1
+	Query: "catalognumber:11271 institutioncode:LSUMZ" ; Times: 1
+	Query: "Nicholsina usta usta mappable:1" ; Times: 1
+	Query: "Scarus falcipinnis mappable:1" ; Times: 1
+	Query: "(663)" ; Times: 1
+	Query: "LSUMZ 922" ; Times: 2
+	Query: "lates calcarifer" ; Times: 1
+	Query: "mappable:1 year&gt;=1979 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "Atherinomorus pinguis mappable:1" ; Times: 3
+	Query: "(11044)" ; Times: 1
+	Query: "Cyphocharax magdalenae" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "Gymnocorymbus ternetzi" ; Times: 2
+	Query: "&#34;Candelaria&#34;" ; Times: 2
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "13715" ; Times: 2
+	Query: "&#34;Mandinga&#34;" ; Times: 1
+	Query: "LSU 12798" ; Times: 2
+	Query: "(18641)" ; Times: 1
+	Query: "Scomberomorus maculatus" ; Times: 1
+	Query: "lsumz 13691" ; Times: 1
+	Query: "lsumz 13690" ; Times: 2
+	Query: "Centropomus parallelus" ; Times: 1
+	Query: "marmoreus" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "Atherinomorus stipes mappable:1" ; Times: 2
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "Trichopsetta ventralis" ; Times: 1
+	Query: "LSU 7658" ; Times: 2
+	Query: "LSU 8401" ; Times: 1
+	Query: "locality:Rio Verde. " ; Times: 1
+	Query: "Hypoatherina valenciennei mappable:1" ; Times: 2
+	Query: "Anchovia clupeoides" ; Times: 1
+	Query: "11188" ; Times: 1
+	Query: "Sparisoma atomarium mappable:1" ; Times: 1
+	Query: "Scarus rubroviolaceus mappable:1" ; Times: 1
+	Query: "LSUmz 17589" ; Times: 2
+	Query: "specificepithet:diabolis" ; Times: 1
+	Query: "Macrhybopsis storeriana" ; Times: 1
+	Query: "lsumz 13225" ; Times: 2
+	Query: "LSUMZ 1440" ; Times: 1
+	Query: "Galeocharax gulo" ; Times: 1
+	Query: "county:&#34;Madison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "13619" ; Times: 2
+	Query: "lsumz 15835" ; Times: 1
+	Query: "lsumz 13227" ; Times: 1
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "lsumz 15836" ; Times: 1
+	Query: "amphilophus rostratus" ; Times: 1
+	Query: "&#34;Río Sixaola&#34;" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "Euthynnus affinis" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 1
+	Query: "Gambusia nicaraguensis" ; Times: 2
+	Query: "Uropterygius micropterus" ; Times: 1
+	Query: "Cryptotomus roseus mappable:1" ; Times: 1
+	Query: "Scarus psittacus mappable:1" ; Times: 1
+	Query: "(16380)" ; Times: 1
+	Query: "Lutjanus jocu honduras" ; Times: 1
+	Query: "Gambusia yucatana" ; Times: 1
+	Query: "LSU 741" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 853 download events in this period)
+Total number of records downloaded: 414
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Honduras ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Cuba ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 2
+	Country: Taiwan ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-27 ; Times: 2
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-23 ; Times: 1
+	Date: 2020-03-11 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Singapore&#34;" ; Times: 1
+	Query: "Sillago japonica" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Gambusia nicaraguensis" ; Times: 1
+	Query: "Galeocharax gulo" ; Times: 1
+	Query: "Anchovia clupeoides" ; Times: 1
+	Query: "lates calcarifer" ; Times: 2
+	Query: "Gambusia yucatana" ; Times: 1
+
+
+End of report.
