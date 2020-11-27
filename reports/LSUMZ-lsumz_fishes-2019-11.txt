@@ -1,0 +1,149 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 1071
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: United States ; Times: 78
+	Country: Chile ; Times: 17
+	Country: Portugal ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-18 ; Times: 1
+	Date: 2019-11-30 ; Times: 11
+	Date: 2019-11-15 ; Times: 4
+	Date: 2019-11-14 ; Times: 15
+	Date: 2019-11-17 ; Times: 1
+	Date: 2019-11-16 ; Times: 7
+	Date: 2019-11-10 ; Times: 2
+	Date: 2019-11-12 ; Times: 2
+	Date: 2019-11-08 ; Times: 1
+	Date: 2019-11-27 ; Times: 19
+	Date: 2019-11-20 ; Times: 5
+	Date: 2019-11-21 ; Times: 3
+	Date: 2019-11-22 ; Times: 7
+	Date: 2019-11-24 ; Times: 6
+	Date: 2019-11-25 ; Times: 17
+	Date: 2019-11-26 ; Times: 2
+	Date: 2019-11-09 ; Times: 2
+	Date: 2019-11-06 ; Times: 8
+	Date: 2019-11-29 ; Times: 1
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-02 ; Times: 1
+	Date: 2019-11-03 ; Times: 3
+	Date: 2019-11-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Poeciliopsis gracilis" ; Times: 1
+	Query: "catalognumber:13050 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:3632 institutioncode:LSUMZ" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 3
+	Query: "LSUMZ" ; Times: 3
+	Query: "institutioncode:LSUMZ" ; Times: 3
+	Query: "16051" ; Times: 1
+	Query: "Salmo salar" ; Times: 1
+	Query: "16053" ; Times: 1
+	Query: "mene maculata" ; Times: 1
+	Query: "Salmo salar mappable:1" ; Times: 2
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "Scarus ghobban vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "trichiurus lepturus vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "catalognumber:10392 institutioncode:LSUMZ" ; Times: 1
+	Query: "specificepithet:flavipinnis genus:Aplocheilichthys" ; Times: 1
+	Query: "catalognumber:13395 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:11958 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 4478" ; Times: 1
+	Query: "LSUMZ 4479" ; Times: 1
+	Query: "distance(location,geopoint(25.5766994218309,-81.130110132586))&lt;306658.662473966" ; Times: 2
+	Query: "Epinephelus itajara" ; Times: 1
+	Query: "johnius sina]" ; Times: 1
+	Query: "LSUMZ 4477" ; Times: 1
+	Query: "mastacembelus brichardi" ; Times: 1
+	Query: "catalognumber:10606 institutioncode:LSUMZ" ; Times: 1
+	Query: "etmopterus" ; Times: 9
+	Query: "18819" ; Times: 1
+	Query: "catalognumber:8015 institutioncode:LSUMZ" ; Times: 1
+	Query: "Centropomus undecimalis vntype:specimen year &gt;= 2000" ; Times: 2
+	Query: "catalognumber:1828 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ 17720" ; Times: 1
+	Query: "61-278" ; Times: 1
+	Query: "10918" ; Times: 1
+	Query: "Karon" ; Times: 1
+	Query: "catalognumber:723 institutioncode:LSUMZ" ; Times: 2
+	Query: "Sphyraena barracuda vntype:specimen year &gt;= 2000" ; Times: 2
+	Query: "catalognumber:16447 institutioncode:LSUMZ" ; Times: 4
+	Query: "LSUMZ 4489" ; Times: 1
+	Query: "LSUMZ 4488" ; Times: 1
+	Query: "catalognumber:1867 institutioncode:LSUMZ" ; Times: 1
+	Query: "elops affinis" ; Times: 2
+	Query: "aluterus scriptus" ; Times: 1
+	Query: "LSUMZ 4481" ; Times: 2
+	Query: "LSUMZ 4480" ; Times: 1
+	Query: "LSUMZ 16693" ; Times: 1
+	Query: "LSUMZ 4482" ; Times: 2
+	Query: "molasses" ; Times: 1
+	Query: "LSUMZ 4495" ; Times: 1
+	Query: "10565" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "specificepithet:gracilis genus:Poeciliopsis" ; Times: 1
+	Query: "LSUMZ 4425" ; Times: 3
+	Query: "catalognumber:1068 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:602 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:13126 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:13116 institutioncode:LSUMZ" ; Times: 1
+	Query: "trichiurus lepturus vntype:specimen year &gt;= 2015" ; Times: 1
+	Query: "catalognumber:10612 institutioncode:LSUMZ" ; Times: 1
+	Query: "catalognumber:15675 institutioncode:LSUMZ" ; Times: 7
+	Query: "johnius kuwait" ; Times: 2
+	Query: "solea solea" ; Times: 1
+	Query: "LSUMZ 4500" ; Times: 1
+	Query: "catalognumber:942" ; Times: 1
+	Query: "Epinephelus marginatus mappable:1" ; Times: 1
+	Query: "catalognumber:15676 institutioncode:LSUMZ" ; Times: 6
+	Query: "catalognumber:947 institutioncode:LSUMZ" ; Times: 2
+	Query: "Agonostomus monticola" ; Times: 3
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "catalognumber:14210 institutioncode:LSUMZ" ; Times: 1
+	Query: "18905" ; Times: 3
+	Query: "LSUMZ 452" ; Times: 1
+	Query: "18906" ; Times: 1
+	Query: "Doryrhamphus" ; Times: 1
+	Query: "gbifdatasetid:8a1073ce-54a4-4712-89a6-e14d82836d9e" ; Times: 2
+	Query: "catalognumber:13325 institutioncode:LSUMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 1367 download events in this period)
+Total number of records downloaded: 134
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "etmopterus" ; Times: 1
+	Query: "Africa" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+
+
+End of report.
