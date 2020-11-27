@@ -1,0 +1,131 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 466
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 44
+	Country: Germany ; Times: 4
+	Country: Ireland ; Times: 3
+	Country: Japan ; Times: 4
+	Country: Hong Kong ; Times: 8
+	Country: Russia ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 8
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-30 ; Times: 9
+	Date: 2020-05-23 ; Times: 1
+	Date: 2020-05-22 ; Times: 7
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-28 ; Times: 10
+	Date: 2020-05-04 ; Times: 2
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-07 ; Times: 1
+	Date: 2020-05-06 ; Times: 7
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-10 ; Times: 3
+	Date: 2020-05-11 ; Times: 7
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-13 ; Times: 9
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-01 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "3611" ; Times: 1
+	Query: "scientificname:(Fundulus majalis) country:United States mappable:1" ; Times: 1
+	Query: "Melichthys vidua mappable:1" ; Times: 1
+	Query: "catalognumber:13188 institutioncode:LSUMZ" ; Times: 1
+	Query: "10425 institutioncode:LSUMZ" ; Times: 1
+	Query: "LSUMZ" ; Times: 1
+	Query: "9738" ; Times: 1
+	Query: "scientificname:(Notropis sabinae) country:United States mappable:1" ; Times: 2
+	Query: "mugil liza" ; Times: 1
+	Query: "catalognumber:14480 institutioncode:LSUMZ" ; Times: 1
+	Query: "ellochelon" ; Times: 3
+	Query: "grammatobothus polyophthalmus" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "catalognumber:14023 institutioncode:LSUMZ" ; Times: 1
+	Query: "Fundulus grandis" ; Times: 1
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "Samariscus filipectoralis" ; Times: 4
+	Query: "lsumz" ; Times: 1
+	Query: "catalognumber:10425 institutioncode:LSUMZ" ; Times: 1
+	Query: "Gymnothorax buroensis" ; Times: 2
+	Query: "poeciliopsis" ; Times: 1
+	Query: "LSUMZ 5785" ; Times: 3
+	Query: "lsu 18482" ; Times: 1
+	Query: "10041" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "scientificname:(Noturus phaeus) country:United States mappable:1" ; Times: 1
+	Query: "Sufflamen bursa mappable:1" ; Times: 1
+	Query: "marinus texas" ; Times: 1
+	Query: "LSUMZ 2859" ; Times: 1
+	Query: "LSUMZ 5798" ; Times: 1
+	Query: "catalognumber:13186 institutioncode:LSUMZ" ; Times: 1
+	Query: "Balistes capriscus mappable:1" ; Times: 2
+	Query: "gymnothorax buroensis" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "harpadon nehereus" ; Times: 1
+	Query: "scientificname:(Harengula jaguana OR Harengula pensacolae) country:United States mappable:1" ; Times: 1
+	Query: "12552" ; Times: 1
+	Query: "Rhinecanthus aculeatus mappable:1" ; Times: 1
+	Query: "catalognumber:13998 institutioncode:LSUMZ" ; Times: 1
+	Query: "Sufflamen verres mappable:1" ; Times: 1
+	Query: "Gymnothorax pictus" ; Times: 1
+	Query: "citharus linguatula" ; Times: 1
+	Query: "lsumz 2859" ; Times: 1
+	Query: "dactylopus dactylopus" ; Times: 1
+	Query: "LSUMZ 14202" ; Times: 8
+	Query: "hime japonica" ; Times: 1
+	Query: "catalognumber:5798 institutioncode:LSUMZ" ; Times: 1
+	Query: "center creek county:&#34;towns&#34; stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "Odonus niger mappable:1" ; Times: 1
+	Query: "scientificname:(Syngnathus louisianae) country:United States mappable:1" ; Times: 1
+	Query: "Cynoscion arenarius" ; Times: 2
+	Query: "Eucinostomus currani" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "catalognumber:13187 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:5785 institutioncode:LSUMZ" ; Times: 2
+	Query: "catalognumber:13185 institutioncode:LSUMZ" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1106 download events in this period)
+Total number of records downloaded: 45
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Canada ; Times: 4
+	Country: Portugal ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-08 ; Times: 2
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-11 ; Times: 2
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:(aves OR Aves) institutioncode:LSUMZ" ; Times: 2
+	Query: "Toxotes jaculatrix" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "class:Aves institutioncode:LSUMZ" ; Times: 2
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Catostomus" ; Times: 1
+
+
+End of report.
