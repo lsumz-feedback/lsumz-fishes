@@ -1,0 +1,168 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 150
+Number of records retrieved in searches: 1042
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 57
+	Country: Australia ; Times: 1
+	Country: Honduras ; Times: 39
+	Country: Peru ; Times: 10
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 9
+	Country: India ; Times: 1
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 15
+	Country: Ireland ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 4
+	Date: 2020-08-06 ; Times: 5
+	Date: 2020-08-19 ; Times: 6
+	Date: 2020-08-01 ; Times: 3
+	Date: 2020-08-22 ; Times: 6
+	Date: 2020-08-05 ; Times: 12
+	Date: 2020-08-29 ; Times: 21
+	Date: 2020-08-16 ; Times: 2
+	Date: 2020-08-14 ; Times: 2
+	Date: 2020-08-10 ; Times: 2
+	Date: 2020-08-12 ; Times: 2
+	Date: 2020-08-28 ; Times: 7
+	Date: 2020-08-07 ; Times: 4
+	Date: 2020-08-26 ; Times: 17
+	Date: 2020-08-27 ; Times: 30
+	Date: 2020-08-24 ; Times: 2
+	Date: 2020-08-25 ; Times: 3
+	Date: 2020-08-31 ; Times: 1
+	Date: 2020-08-23 ; Times: 3
+	Date: 2020-08-20 ; Times: 1
+	Date: 2020-08-21 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:laticeps genus:Cataetyx" ; Times: 2
+	Query: "Roeboides bouchellei" ; Times: 1
+	Query: "12830" ; Times: 1
+	Query: "17163" ; Times: 2
+	Query: "8020" ; Times: 3
+	Query: "Pseudophallus mindii" ; Times: 1
+	Query: "LSUMZ 16450" ; Times: 1
+	Query: "Cottus aleuticus" ; Times: 1
+	Query: "caranx latus" ; Times: 1
+	Query: "Anableps dowei Honduras" ; Times: 1
+	Query: "Hyporhamphus unifasciatus" ; Times: 2
+	Query: "scartelaos" ; Times: 1
+	Query: "Hyporhamphus roberti" ; Times: 1
+	Query: "Cottus bairdi" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 1
+	Query: "Oligoplites saurus" ; Times: 1
+	Query: "percina nasuta" ; Times: 2
+	Query: "urodela" ; Times: 1
+	Query: "Atherinella argentea" ; Times: 2
+	Query: "13097" ; Times: 1
+	Query: "Awaous banana" ; Times: 1
+	Query: "genus:Scartelaos" ; Times: 1
+	Query: "recordedby:gregg" ; Times: 1
+	Query: "Gymnarchus niloticus" ; Times: 1
+	Query: "Doryrhamphus" ; Times: 1
+	Query: "Rhamdia guatemalensis" ; Times: 3
+	Query: "fundulus grandis" ; Times: 6
+	Query: "Leuciscus leuciscus" ; Times: 1
+	Query: "Rhynchoconger flavus" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "Cirrhitichthys oxycephalus" ; Times: 1
+	Query: "catalognumber:6205" ; Times: 1
+	Query: "Atherinella guija" ; Times: 1
+	Query: "Caranx vinctus" ; Times: 1
+	Query: "Moxostoma anisurum" ; Times: 4
+	Query: "Tabasco" ; Times: 1
+	Query: "Rio Beni" ; Times: 2
+	Query: "Hyphessobrycon tortuguerae" ; Times: 2
+	Query: "meeki" ; Times: 1
+	Query: "Solea solea" ; Times: 2
+	Query: "Oreochromis mossambicus" ; Times: 1
+	Query: "genus:Chascanopsetta" ; Times: 6
+	Query: "specificepithet:lugubris genus:Chascanopsetta" ; Times: 1
+	Query: "Dionda episcopa" ; Times: 1
+	Query: "Mugil cephalus" ; Times: 4
+	Query: "Ophisternon aenigmaticum" ; Times: 1
+	Query: "Epigonus" ; Times: 1
+	Query: "Caranx bartholomaei" ; Times: 1
+	Query: "Notemigonus crysoleucas" ; Times: 1
+	Query: "Anguilla rostrata Honduras" ; Times: 1
+	Query: "Limanda limanda" ; Times: 1
+	Query: "Caranx latus" ; Times: 2
+	Query: "Pseudophallus starksi" ; Times: 1
+	Query: "Synbranchus marmoratus" ; Times: 2
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Strongylura notata" ; Times: 1
+	Query: "Scartella cristata" ; Times: 1
+	Query: "Opsanus beta" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: "LSUMZ 9274" ; Times: 1
+	Query: "Clupea harengus" ; Times: 5
+	Query: "Anableps dowei HOnduras" ; Times: 1
+	Query: "Anguilla anguilla" ; Times: 1
+	Query: "Syngnathus scovelli" ; Times: 1
+	Query: "characodon lateralis" ; Times: 1
+	Query: "caranx hippos" ; Times: 1
+	Query: "Alfaro cultratus" ; Times: 1
+	Query: "anchovia clupeoides" ; Times: 1
+	Query: "LSUMZ 8289" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "Trachurus trachurus" ; Times: 1
+	Query: "Caranx crysos" ; Times: 1
+	Query: "Caranx hippos" ; Times: 1
+	Query: "Profundulus guatemalensis" ; Times: 1
+	Query: "Thunnus atlanticus" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "LSUMZ 17720" ; Times: 1
+	Query: "Centropomus ensiferus" ; Times: 1
+	Query: "LSUMZ 8272" ; Times: 1
+	Query: "genus:Cataetyx" ; Times: 12
+	Query: "Apeltes quadracus" ; Times: 1
+	Query: "Alosa chrysochloris" ; Times: 1
+	Query: "Blicca bjoerkna" ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "Gobiesox strumosus" ; Times: 1
+	Query: "14370" ; Times: 1
+	Query: "Anableps dowei" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 9
+	Query: "sicydium plumieri" ; Times: 1
+	Query: "14405" ; Times: 1
+	Query: "14405 LSUMZ" ; Times: 2
+	Query: "Parablennius marmoreus" ; Times: 1
+	Query: "narke" ; Times: 1
+	Query: "(8665) institutioncode:LSUMZ" ; Times: 1
+	Query: "11295" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 756 download events in this period)
+Total number of records downloaded: 13088
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-17 ; Times: 1
+	Date: 2020-08-05 ; Times: 2
+	Date: 2020-08-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sicydium plumieri" ; Times: 1
+	Query: "genus:Periophthalmus" ; Times: 1
+	Query: "country:&#34;Puerto Rico&#34;" ; Times: 1
+	Query: "actinopterygii" ; Times: 1
+
+
+End of report.
