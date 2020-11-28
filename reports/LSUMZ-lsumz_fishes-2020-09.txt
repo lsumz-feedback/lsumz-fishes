@@ -1,0 +1,216 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 170
+Number of records retrieved in searches: 1184
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Ireland ; Times: 7
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Venezuela ; Times: 3
+	Country: France ; Times: 89
+	Country: United States ; Times: 44
+	Country: Peru ; Times: 8
+	Country: Denmark ; Times: 1
+	Country: Hong Kong ; Times: 2
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-02 ; Times: 1
+	Date: 2020-09-01 ; Times: 6
+	Date: 2020-09-07 ; Times: 6
+	Date: 2020-09-06 ; Times: 1
+	Date: 2020-09-05 ; Times: 1
+	Date: 2020-09-04 ; Times: 9
+	Date: 2020-09-21 ; Times: 11
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-23 ; Times: 3
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-26 ; Times: 1
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-14 ; Times: 4
+	Date: 2020-09-15 ; Times: 4
+	Date: 2020-09-16 ; Times: 23
+	Date: 2020-09-17 ; Times: 26
+	Date: 2020-09-10 ; Times: 10
+	Date: 2020-09-11 ; Times: 14
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-18 ; Times: 31
+
+List of queries that retrieved data from the resource: 
+	Query: "Megalops atlanticus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Seriola rivoliana" ; Times: 1
+	Query: "Gobius auratus" ; Times: 1
+	Query: "Upeneus moluccensis" ; Times: 1
+	Query: "Petromyzon marinus" ; Times: 1
+	Query: "Tripterygion delaisi" ; Times: 1
+	Query: "Kyphosus sectatrix" ; Times: 1
+	Query: "Thorogobius ephippiatus" ; Times: 1
+	Query: "scientificname:Scomber japonicus" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "LSUMZ 1565" ; Times: 2
+	Query: "Hymenocephalus italicus" ; Times: 1
+	Query: "10815" ; Times: 3
+	Query: "Abudefduf vaigiensis" ; Times: 2
+	Query: "Cataetyx laticeps" ; Times: 1
+	Query: "Crenidens crenidens" ; Times: 1
+	Query: "Pomatomus saltatrix" ; Times: 1
+	Query: "Pampus argenteus" ; Times: 1
+	Query: "Alepes djedaba" ; Times: 1
+	Query: "Aldama" ; Times: 1
+	Query: "LSUMZ 1822" ; Times: 2
+	Query: "stateprovince:&#34;Florida&#34; year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "7251" ; Times: 1
+	Query: "ameiurus melas" ; Times: 1
+	Query: "Terapon theraps" ; Times: 1
+	Query: "Nemipterus japonicus" ; Times: 1
+	Query: "Oblada melanura" ; Times: 1
+	Query: "Scarus ghobban" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "LSU 5128" ; Times: 1
+	Query: "Parexocoetus mento" ; Times: 1
+	Query: "institutioncode:LSUMZ" ; Times: 4
+	Query: "Holocephali" ; Times: 1
+	Query: "Diplodus annularis" ; Times: 1
+	Query: "Dussumieria elopsoides" ; Times: 1
+	Query: "iglesia" ; Times: 1
+	Query: "Megalops atlanticus country:&#34;United States&#34;" ; Times: 2
+	Query: "Phycis phycis" ; Times: 1
+	Query: "Geophagus surinamensis" ; Times: 2
+	Query: "Callionymus filamentosus" ; Times: 1
+	Query: "curacao" ; Times: 2
+	Query: "Ranzania laevis" ; Times: 1
+	Query: "Saurida undosquamis" ; Times: 1
+	Query: "Trichiurus lepturus" ; Times: 1
+	Query: "Pelates quadrilineatus" ; Times: 1
+	Query: "Regalecus glesne" ; Times: 1
+	Query: "Sargocentron rubrum" ; Times: 1
+	Query: "Tabasco" ; Times: 2
+	Query: "16892" ; Times: 1
+	Query: "Scorpaena maderensis" ; Times: 1
+	Query: "Rastrelliger kanagurta" ; Times: 1
+	Query: "Hemiramphus far" ; Times: 1
+	Query: "LSUMZ 1574" ; Times: 1
+	Query: "Solea solea" ; Times: 3
+	Query: "Diplodus vulgaris" ; Times: 1
+	Query: "Remora remora" ; Times: 1
+	Query: "Hypostomus plecostomus" ; Times: 1
+	Query: "7909" ; Times: 1
+	Query: "Apogon imberbis" ; Times: 1
+	Query: "Xyrichtys novacula" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "tabasco" ; Times: 3
+	Query: "Carcharhinus brevipinna" ; Times: 1
+	Query: "lsu 5400" ; Times: 1
+	Query: "LSUMZ 16649" ; Times: 1
+	Query: "Diplodus puntazzo" ; Times: 1
+	Query: "Lobotes surinamensis" ; Times: 1
+	Query: "LSUMZ 16093" ; Times: 2
+	Query: "Leuresthes tenuis" ; Times: 6
+	Query: "LSUMZ 1568" ; Times: 1
+	Query: "Gobius paganellus" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "specificepithet:Gracilis genus:Aldrovandia" ; Times: 3
+	Query: "Thalassoma pavo" ; Times: 1
+	Query: "Coryphoblennius galerita" ; Times: 1
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "Lipophrys trigloides" ; Times: 1
+	Query: "Lagocephalus lagocephalus" ; Times: 1
+	Query: "Scartella cristata" ; Times: 1
+	Query: "Euthynnus alletteratus" ; Times: 1
+	Query: "Rhizoprionodon acutus" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "Carassius auratus" ; Times: 3
+	Query: "Sardinella aurita" ; Times: 1
+	Query: "Eleotris picta" ; Times: 1
+	Query: "Hippocampus hippocampus" ; Times: 1
+	Query: "Sillago sihama" ; Times: 1
+	Query: "Platycephalus indicus" ; Times: 1
+	Query: "LSUMZ 15446" ; Times: 2
+	Query: "Synodus saurus" ; Times: 1
+	Query: "Bothus podas" ; Times: 1
+	Query: "Decapterus russelli" ; Times: 1
+	Query: "catenatus Missouri" ; Times: 1
+	Query: "Remora osteochir" ; Times: 1
+	Query: "Upeneus asymmetricus" ; Times: 1
+	Query: "Epinephelus fasciatus" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "Balistes capriscus" ; Times: 1
+	Query: "stateprovince:&#34;AL&#34;" ; Times: 1
+	Query: "Fistularia commersonii" ; Times: 1
+	Query: "Gonichthys cocco" ; Times: 1
+	Query: "Himantura uarnak" ; Times: 1
+	Query: "10122" ; Times: 1
+	Query: "Dussumieria acuta" ; Times: 1
+	Query: "Etrumeus teres" ; Times: 1
+	Query: "LSUMZ 2333" ; Times: 1
+	Query: "Caranx hippos" ; Times: 1
+	Query: "Pomadasys stridens" ; Times: 1
+	Query: "LSUMZ 14258" ; Times: 2
+	Query: "Epinephelus coioides" ; Times: 1
+	Query: "LSUMZ 2721" ; Times: 2
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "Rachycentron canadum" ; Times: 1
+	Query: "Lagocephalus spadiceus" ; Times: 1
+	Query: "Lithognathus mormyrus" ; Times: 1
+	Query: "Lepadogaster lepadogaster" ; Times: 1
+	Query: "Pagrus pagrus" ; Times: 1
+	Query: "ictalurus furcatus" ; Times: 3
+	Query: "Terapon puta" ; Times: 1
+	Query: "Aluterus monoceros" ; Times: 1
+	Query: "Alosa chrysochloris" ; Times: 1
+	Query: "Epinephelus marginatus" ; Times: 1
+	Query: "Dactylopterus volitans" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "Caranx crysos" ; Times: 1
+	Query: "Bagre marinus" ; Times: 2
+	Query: "Sphoeroides spengleri" ; Times: 1
+	Query: "locality:juchitan country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "Rhinobatos rhinobatos" ; Times: 1
+	Query: "Fistularia petimba" ; Times: 1
+	Query: "15075" ; Times: 1
+	Query: "county:&#34;Harrison&#34; stateprovince:&#34;Mississippi&#34;" ; Times: 3
+	Query: "Echeneis naucrates" ; Times: 1
+	Query: "Plotosus lineatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 976 download events in this period)
+Total number of records downloaded: 355
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Panama ; Times: 3
+	Country: Venezuela ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "Gambusia" ; Times: 1
+	Query: "country:&#34;bermuda&#34;" ; Times: 1
+	Query: "curacao" ; Times: 2
+
+
+End of report.
