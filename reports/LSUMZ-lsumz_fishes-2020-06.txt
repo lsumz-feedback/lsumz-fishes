@@ -1,0 +1,167 @@
+Report for Institution Code LSUMZ, Resource lsumz_fishes
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 660
+Number of records retrieved in searches: 5884
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: United Kingdom ; Times: 610
+	Country: Mexico ; Times: 3
+	Country: Peru ; Times: 14
+	Country: France ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-19 ; Times: 4
+	Date: 2020-06-18 ; Times: 2
+	Date: 2020-06-26 ; Times: 7
+	Date: 2020-06-09 ; Times: 6
+	Date: 2020-06-06 ; Times: 8
+	Date: 2020-06-07 ; Times: 6
+	Date: 2020-06-04 ; Times: 9
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-10 ; Times: 204
+	Date: 2020-06-15 ; Times: 107
+	Date: 2020-06-29 ; Times: 2
+	Date: 2020-06-11 ; Times: 204
+	Date: 2020-06-17 ; Times: 98
+
+List of queries that retrieved data from the resource: 
+	Query: "Salmo salar" ; Times: 9
+	Query: "Rutilus rutilus" ; Times: 9
+	Query: "Puntioplites falcifer" ; Times: 12
+	Query: "Harengula clupeola" ; Times: 1
+	Query: "Siganus argenteus" ; Times: 6
+	Query: "Escualosa thoracata" ; Times: 6
+	Query: "Cottus carolinae" ; Times: 5
+	Query: "paraplotosus albilabris" ; Times: 1
+	Query: "Scatophagus argus" ; Times: 6
+	Query: "Pampus chinensis" ; Times: 6
+	Query: "scientificname:(Agonostomus monticola) country:United States mappable:1" ; Times: 2
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "Alepes djedaba" ; Times: 6
+	Query: "Aequidens tetramerus" ; Times: 1
+	Query: "Pungitius pungitius" ; Times: 9
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "Gambusia affinis" ; Times: 6
+	Query: "Trypauchen vagina" ; Times: 6
+	Query: "Dermogenys pusilla" ; Times: 6
+	Query: "Arius venosus" ; Times: 6
+	Query: "Gymnocephalus cernua" ; Times: 6
+	Query: "5661" ; Times: 1
+	Query: "Ictalurus lupus" ; Times: 6
+	Query: "Decapterus maruadsi" ; Times: 6
+	Query: "Clarias batrachus" ; Times: 6
+	Query: "Ambassis vachellii" ; Times: 6
+	Query: "Plotosus canius" ; Times: 6
+	Query: "Leuciscus leuciscus" ; Times: 6
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "lion" ; Times: 3
+	Query: "Nuchequula gerreoides" ; Times: 6
+	Query: "Johnius belangerii" ; Times: 6
+	Query: "Geophagus surinamensis" ; Times: 1
+	Query: "Hyporhamphus quoyi" ; Times: 12
+	Query: "Otolithes ruber" ; Times: 12
+	Query: "Astatotilapia burtoni" ; Times: 6
+	Query: "Crenicichla lepidota" ; Times: 2
+	Query: "Tabasco" ; Times: 2
+	Query: "Cottus gobio" ; Times: 6
+	Query: "Dormitator latifrons" ; Times: 1
+	Query: "Scomberomorus maculatus" ; Times: 6
+	Query: "Oreochromis mossambicus" ; Times: 6
+	Query: "oxycirrhites typus" ; Times: 1
+	Query: "Sardinella gibbosa" ; Times: 9
+	Query: "Mugil cephalus" ; Times: 11
+	Query: "Arius arius" ; Times: 12
+	Query: "oxyconger leptognathus" ; Times: 1
+	Query: "locality:kentucky" ; Times: 3
+	Query: "Photopectoralis bindus" ; Times: 6
+	Query: "Lile stolifera" ; Times: 1
+	Query: "Arius oetik" ; Times: 6
+	Query: "Netuma bilineata" ; Times: 6
+	Query: "Johnius borneensis" ; Times: 9
+	Query: "Sardinella albella" ; Times: 6
+	Query: "Pseudostegophilus nemurus" ; Times: 2
+	Query: "Siganus spinus" ; Times: 6
+	Query: "Dendrophysa russelii" ; Times: 6
+	Query: "Alepes kleinii" ; Times: 9
+	Query: "Salmo trutta" ; Times: 9
+	Query: "Scomber colias" ; Times: 6
+	Query: "Gobiomorus maculatus" ; Times: 2
+	Query: "Scomber japonicus" ; Times: 6
+	Query: "Ilisha melastoma" ; Times: 6
+	Query: "Cottus aleuticus" ; Times: 6
+	Query: "Trinectes fluviatilis" ; Times: 1
+	Query: "Hilsa kelee" ; Times: 12
+	Query: "Ictalurus furcatus" ; Times: 6
+	Query: "Ctenopharyngodon idella" ; Times: 9
+	Query: "Siganus canaliculatus" ; Times: 6
+	Query: "Cyprinus carpio" ; Times: 5
+	Query: "Gasterosteus aculeatus" ; Times: 11
+	Query: "Eleutheronema tetradactylum" ; Times: 9
+	Query: "Harpadon nehereus" ; Times: 6
+	Query: "Carassius auratus" ; Times: 6
+	Query: "Siganus fuscescens" ; Times: 12
+	Query: "Toxotes chatareus" ; Times: 6
+	Query: "Eleotris picta" ; Times: 2
+	Query: "stellifer stellifer" ; Times: 1
+	Query: "Arius maculatus" ; Times: 12
+	Query: "Cottus cognatus" ; Times: 6
+	Query: "Decapterus russelli" ; Times: 6
+	Query: "Johnius carouna" ; Times: 9
+	Query: "Tylosurus crocodilus" ; Times: 6
+	Query: "Thryssa dussumieri" ; Times: 6
+	Query: "Cypselurus oligolepis" ; Times: 6
+	Query: "Lates calcarifer" ; Times: 6
+	Query: "Epinephelus fasciatus" ; Times: 6
+	Query: "Priacanthus macracanthus" ; Times: 9
+	Query: "metavelifer multiradiatus" ; Times: 1
+	Query: "Callionymus planus" ; Times: 6
+	Query: "Sillago sihama" ; Times: 6
+	Query: "Ictalurus punctatus" ; Times: 6
+	Query: "otolithes ruber" ; Times: 1
+	Query: "oblada melanura" ; Times: 1
+	Query: "Cichlasoma bimaculatum" ; Times: 1
+	Query: "Chelon labrosus" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Plicofollis nella" ; Times: 6
+	Query: "Scomber australasicus" ; Times: 9
+	Query: "Butis butis" ; Times: 6
+	Query: "Clupea harengus" ; Times: 15
+	Query: "Macrognathus siamensis" ; Times: 6
+	Query: "Nemipterus bipunctatus" ; Times: 3
+	Query: "Xiphophorus variatus" ; Times: 6
+	Query: "Coregonus albula" ; Times: 6
+	Query: "Gyrinocheilus aymonieri" ; Times: 9
+	Query: "Carassius carassius" ; Times: 6
+	Query: "Lepturacanthus savala" ; Times: 6
+	Query: "Pygocentrus nattereri" ; Times: 6
+	Query: "scientificname:(Lutjanus apodus) country:United States mappable:1" ; Times: 2
+	Query: "Pangasius pangasius" ; Times: 6
+	Query: "catalognumber:452 institutioncode:LSUMZ" ; Times: 1
+	Query: "scientificname:(Lutjanus griseus) country:United States mappable:1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 474 download events in this period)
+Total number of records downloaded: 146
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-04 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "raccoon" ; Times: 1
+	Query: "Florida" ; Times: 1
+	Query: "locality:kentucky" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34;" ; Times: 1
+
+
+End of report.
